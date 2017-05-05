@@ -1,0 +1,2382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_0</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5307088451752324</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09735202789307,36.14082063064677 -114.09696578979492,36.141271172178286 -114.0973949432373,36.141513770392805 -114.09765243530273,36.14120185826493 -114.09735202789307,36.14082063064677 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1</value>
+    </Data>
+    <Data name='random'>
+      <value>0.26295767780229773</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08962726593018,36.14397436703243 -114.08911228179932,36.144182301239965 -114.08967018127441,36.144424890452186 -114.08962726593018,36.14397436703243 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3562365020311592</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08984184265137,36.14341987311765 -114.08932685852051,36.143142624690505 -114.08902645111084,36.14348918507136 -114.08945560455322,36.14355849696379 -114.08984184265137,36.14341987311765 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_3</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6155537505292403</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09039974212646,36.14868740705872 -114.09014225006104,36.148999289423124 -114.09057140350342,36.14913790340919 -114.09039974212646,36.14868740705872 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_4</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7253087397372007</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08029317855835,36.15272445512035 -114.07994985580444,36.15272445512035 -114.07986402511597,36.15294969202448 -114.08014297485352,36.15296701791338 -114.08029317855835,36.15272445512035 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_5</value>
+    </Data>
+    <Data name='random'>
+      <value>0.08311237472939759</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08486366271973,36.15435307662325 -114.08473491668701,36.1541798206243 -114.08454179763794,36.154301099863766 -114.08477783203125,36.15447435559474 -114.08486366271973,36.15435307662325 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_6</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6597068108385774</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0926742553711,36.15291504023518 -114.09237384796143,36.15260317344249 -114.09198760986328,36.152741781059035 -114.09228801727295,36.15294969202448 -114.0926742553711,36.15291504023518 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_7</value>
+    </Data>
+    <Data name='random'>
+      <value>0.056510821091605545</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05269861221313,36.192079110817765 -114.05248403549194,36.19221764862815 -114.05259132385254,36.192338869011174 -114.05278444290161,36.1922349658372 -114.05269861221313,36.192079110817765 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_8</value>
+    </Data>
+    <Data name='random'>
+      <value>0.39752477408985776</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00077104568481,36.18038910033274 -114.00051355361938,36.18023322173974 -114.00040626525879,36.18042373997794 -114.00055646896362,36.18049301922241 -114.00077104568481,36.18038910033274 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_9</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8123451366377181</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.78424167633057,36.02140539414486 -113.78437042236328,36.02091945521607 -113.78389835357666,36.02081532505576 -113.7839412689209,36.02144010395365 -113.78424167633057,36.02140539414486 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_10</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5437406474162966</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.75741958618164,35.96727421405152 -113.75656127929688,35.967308947688856 -113.75656127929688,35.96765628322187 -113.75724792480469,35.967760483583824 -113.75741958618164,35.96727421405152 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_11</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5451725954915577</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.74012470245361,35.940733250360516 -113.73969554901123,35.94076799566985 -113.73982429504395,35.941150193064374 -113.74021053314209,35.94108070276648 -113.74012470245361,35.940733250360516 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_12</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5030679432984047</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00156497938951,36.189634191841456 -114.00104999525865,36.18953028507883 -114.00100707991442,36.19039617055475 -114.00152206404528,36.19036153531953 -114.00156497938951,36.189634191841456 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_13</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6455635140205284</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00122165663561,36.188491209870406 -114.00117874129137,36.18914929243646 -114.00173664076647,36.18921856396384 -114.00122165663561,36.188491209870406 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_14</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7408613050921905</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00182247145494,36.18883756980499 -114.00216579420885,36.18880293388048 -114.00225162489733,36.18797166709641 -114.00182247145494,36.18790239446614 -114.00182247145494,36.18883756980499 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_15</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9382387488193288</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98693084716797,36.17467019867679 -113.98688793182373,36.17522447161869 -113.98727416992188,36.17522447161869 -113.98693084716797,36.17467019867679 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_16</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5607846435359446</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98705959320068,36.17279949855186 -113.98658752441406,36.1727648555358 -113.98654460906982,36.17363092634313 -113.98693084716797,36.17363092634313 -113.98705959320068,36.17279949855186 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_17</value>
+    </Data>
+    <Data name='random'>
+      <value>0.07957555862221033</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.92455339431763,36.1015087535231 -113.92425298690796,36.101491416272104 -113.92422080039978,36.10229759439607 -113.92455339431763,36.10229759439607 -113.92455339431763,36.1015087535231 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_18</value>
+    </Data>
+    <Data name='random'>
+      <value>0.1782232044740345</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.1091537475586,36.1280311035974 -114.10752296447754,36.128932330944565 -114.10889625549316,36.12955625150772 -114.1091537475586,36.1280311035974 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_19</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7028700580371302</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.12614822387695,36.09183481061278 -114.12571907043457,36.09294452332527 -114.1270923614502,36.09273645338519 -114.12614822387695,36.09183481061278 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_20</value>
+    </Data>
+    <Data name='random'>
+      <value>0.667502557478444</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.11670684879937,36.068319089951444 -114.11602020329155,36.06873535853017 -114.11679267948784,36.06880473641245 -114.11670684879937,36.068319089951444 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_21</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7190577751554031</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08413410186768,36.147887119901114 -114.08344745635986,36.14840692845658 -114.08464908599854,36.148268313178626 -114.08413410186768,36.147887119901114 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_22</value>
+    </Data>
+    <Data name='random'>
+      <value>0.04645453827068102</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08267498016357,36.148753465579695 -114.08160209655762,36.14965445493422 -114.08194541931152,36.14979306776239 -114.08271789550781,36.14910000117171 -114.08267498016357,36.148753465579695 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_23</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8240053623014604</value>
+    </Data>
+    <Data name='landcover'>
+      <value>0</value>
+    </Data>
+    <Data name='property'>
+      <value>water</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08031463623047,36.15246131695627 -114.08070087432861,36.15246131695627 -114.08065795898438,36.15169896930718 -114.08031463623047,36.15246131695627 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_0</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8583745324019402</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02915954589844,36.18814799830463 -114.02903079986572,36.18787090803978 -114.02864456176758,36.18800945329475 -114.02890205383301,36.18839045148219 -114.02915954589844,36.18814799830463 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_1</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9502987400396407</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01718616485596,36.19150763975925 -114.01718616485596,36.19126519623206 -114.01684284210205,36.19126519623206 -114.01679992675781,36.19157690920057 -114.01718616485596,36.19150763975925 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_2</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6956175154714904</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03692722320557,36.194797870552904 -114.03645515441895,36.1949017703261 -114.03658390045166,36.195352001083535 -114.03692722320557,36.19528273498167 -114.03692722320557,36.194797870552904 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_3</value>
+    </Data>
+    <Data name='random'>
+      <value>0.2716808052755705</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0401029586792,36.19614855685072 -114.03928756713867,36.19601002599509 -114.03928756713867,36.196321720075616 -114.04001712799072,36.196390985258326 -114.0401029586792,36.19614855685072 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_4</value>
+    </Data>
+    <Data name='random'>
+      <value>0.30072651644756376</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03400897979736,36.192096428057475 -114.03357982635498,36.192096428057475 -114.03362274169922,36.19261594346773 -114.03409481048584,36.192581309214255 -114.03400897979736,36.192096428057475 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_5</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3214766954067748</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.06057357788086,36.190988116996174 -114.05975818634033,36.191057386897064 -114.0597152709961,36.191542274487574 -114.06010150909424,36.191542274487574 -114.06057357788086,36.190988116996174 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_6</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3323984728055033</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.06941413879395,36.17637079755282 -114.06894207000732,36.17623223171219 -114.06864166259766,36.17657864585434 -114.06907081604004,36.1768904172728 -114.06941413879395,36.17637079755282 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_7</value>
+    </Data>
+    <Data name='random'>
+      <value>0.27223702740715316</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08310413360596,36.15672664526235 -114.08383369445801,36.157142445511326 -114.08400535583496,36.15651874431101 -114.08310413360596,36.15672664526235 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_8</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8979677016536286</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98251056671143,36.13472073682549 -113.98190975189209,36.1349286955588 -113.98186683654785,36.135309951805205 -113.98242473602295,36.135240632625454 -113.98251056671143,36.13472073682549 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_9</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7686899417220255</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98620128631592,36.132883744079486 -113.98568630218506,36.132883744079486 -113.98581504821777,36.13343831245866 -113.9862871170044,36.133472972852225 -113.98620128631592,36.132883744079486 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_10</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6132790871621662</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98950576782227,36.12480739799827 -113.98894786834717,36.12480739799827 -113.98890495300293,36.12518870341353 -113.98929119110107,36.12518870341353 -113.98950576782227,36.12480739799827 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_11</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8827230943093359</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99701595306396,36.124946054727204 -113.99645805358887,36.124946054727204 -113.99624347686768,36.12529269547808 -113.99680137634277,36.12529269547808 -113.99701595306396,36.124946054727204 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_12</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9922910425409107</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97581577301025,36.11582885348445 -113.97517204284668,36.115794185299656 -113.97517204284668,36.1162448705083 -113.97568702697754,36.116210202507155 -113.97581577301025,36.11582885348445 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_13</value>
+    </Data>
+    <Data name='random'>
+      <value>0.786435283962542</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9686918258667,36.14508334310362 -113.96817684173584,36.14494472195212 -113.96796226501465,36.145464550007205 -113.96873474121094,36.14556851520484 -113.9686918258667,36.14508334310362 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_14</value>
+    </Data>
+    <Data name='random'>
+      <value>0.27448150977950125</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.92723560333252,36.117319570952105 -113.92684936523438,36.11742357344028 -113.92689228057861,36.1178742492972 -113.92740726470947,36.11759691061444 -113.92723560333252,36.117319570952105 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_15</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7048699967768429</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.92041206359863,36.103867421542766 -113.91993999481201,36.10383274807797 -113.91993999481201,36.1044568681034 -113.92041206359863,36.1044568681034 -113.92041206359863,36.103867421542766 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_16</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7590701931359228</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.92908096313477,36.12695654977465 -113.92839431762695,36.125743326165754 -113.92792224884033,36.12588198124154 -113.92873764038086,36.12706053949718 -113.92908096313477,36.12695654977465 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_17</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9587934127459828</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.92414569854736,36.11361005880137 -113.92423152923584,36.11537816588815 -113.92466068267822,36.11555150757745 -113.92414569854736,36.11361005880137 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_18</value>
+    </Data>
+    <Data name='random'>
+      <value>0.20276615179805735</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9227294921875,36.105289020424316 -113.9221715927124,36.105358366053174 -113.92230033874512,36.105809111148616 -113.92281532287598,36.105774438540784 -113.9227294921875,36.105289020424316 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_19</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8668339104759482</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.91818046569824,36.09505986978061 -113.91650676727295,36.09443567510899 -113.91624927520752,36.094678418070394 -113.91796588897705,36.09544131963929 -113.91818046569824,36.09505986978061 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_20</value>
+    </Data>
+    <Data name='random'>
+      <value>0.14055506512698168</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9022159576416,36.09318727089247 -113.9024305343628,36.09290984504017 -113.90058517456055,36.09287516673978 -113.90105724334717,36.093221949055156 -113.9022159576416,36.09318727089247 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_21</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9221121543401101</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.89620780944824,36.091106553129976 -113.89586448669434,36.091418664306026 -113.89676570892334,36.092459025941515 -113.89715194702148,36.092459025941515 -113.89620780944824,36.091106553129976 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_22</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6422065777134195</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.896164894104,36.08729176083351 -113.8958215713501,36.08739580307919 -113.89642238616943,36.08871365960523 -113.89689445495605,36.08885238005955 -113.896164894104,36.08729176083351 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_23</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8952162306047549</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.89045715332031,36.08257503441139 -113.89041423797607,36.08215883908188 -113.8901138305664,36.08215883908188 -113.8901138305664,36.08257503441139 -113.89045715332031,36.08257503441139 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_24</value>
+    </Data>
+    <Data name='random'>
+      <value>0.23094676102395018</value>
+    </Data>
+    <Data name='landcover'>
+      <value>1</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianVegetation</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.89084339141846,36.07851703597172 -113.89080047607422,36.07945351573879 -113.8912296295166,36.07959225253351 -113.89127254486084,36.07851703597172 -113.89084339141846,36.07851703597172 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_0</value>
+    </Data>
+    <Data name='random'>
+      <value>0.06905839196968222</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9737343788147,36.12732051320077 -113.97287607192993,36.12787512089066 -113.97302627563477,36.12816975463202 -113.97392749786377,36.12749382852483 -113.9737343788147,36.12732051320077 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_1</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8068683612224138</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97253274917603,36.12634994031413 -113.97169589996338,36.12716452908194 -113.97188901901245,36.127337844750414 -113.97276878356934,36.126557921228674 -113.97253274917603,36.12634994031413 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_2</value>
+    </Data>
+    <Data name='random'>
+      <value>0.4319448462250678</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98193120956421,36.1262459496502 -113.98163080215454,36.126436599095484 -113.98253202438354,36.127303181647314 -113.98296117782593,36.126991213030784 -113.98193120956421,36.1262459496502 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_3</value>
+    </Data>
+    <Data name='random'>
+      <value>0.17635723385868007</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98892641067505,36.13865452947041 -113.98838996887207,36.138273289474526 -113.98836851119995,36.13875850369324 -113.98866891860962,36.13881049075299 -113.98879766464233,36.13913974133149 -113.9892053604126,36.139053096576355 -113.98892641067505,36.13865452947041 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_4</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3755771429650048</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9877462387085,36.15702117066647 -113.98740291595459,36.15705582064127 -113.98740291595459,36.15821658594866 -113.98772478103638,36.1582858848264 -113.9877462387085,36.15702117066647 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_5</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9676793503201492</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08426284790039,36.152655151327416 -114.08389806747437,36.1524992175693 -114.08254623413086,36.15346946702648 -114.08280372619629,36.15369470179078 -114.08426284790039,36.152655151327416 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_6</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6143716001399699</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.8923454284668,36.080632770691274 -113.89183044433594,36.08045935195451 -113.8917875289917,36.081465175303485 -113.89225959777832,36.081465175303485 -113.8923454284668,36.080632770691274 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_7</value>
+    </Data>
+    <Data name='random'>
+      <value>0.861483212884752</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.8936972618103,36.07242964563699 -113.89337539672852,36.07263776932508 -113.89423370361328,36.07400790319108 -113.89438390731812,36.07383446984397 -113.8936972618103,36.07242964563699 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_8</value>
+    </Data>
+    <Data name='random'>
+      <value>0.15940378076527062</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.85964393615723,36.052239030481644 -113.85966539382935,36.05199615649935 -113.8589358329773,36.051961460154985 -113.8589358329773,36.05222168236493 -113.85964393615723,36.052239030481644 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_9</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6299488692755304</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.82213592529297,36.0477110422792 -113.82220029830933,36.0474855034901 -113.82114887237549,36.04745080515751 -113.82114887237549,36.04765899492366 -113.82213592529297,36.0477110422792 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_10</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3466371993730001</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.79906892776489,36.033657006726216 -113.7989616394043,36.03377847209907 -113.79900455474854,36.034576668460666 -113.79949808120728,36.03459402046565 -113.7995195388794,36.034125514989356 -113.79924058914185,36.034177571291 -113.79906892776489,36.033657006726216 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_11</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5768111800762242</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00212287902832,36.19523941906354 -114.0032708644867,36.195750255406914 -114.00337815284729,36.19557709091817 -114.00213360786438,36.19509222831219 -114.00212287902832,36.19523941906354 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_12</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7948752011602307</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01289462977729,36.20394915581329 -114.01314139300666,36.20383661072674 -114.01274442607246,36.203239253327745 -114.01256203585945,36.20342105823611 -114.01289462977729,36.20394915581329 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_13</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8747489846920571</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02493238449097,36.196538148730994 -114.02486801147461,36.19629572077905 -114.02427792549133,36.196434251129226 -114.02426719665527,36.196693994875154 -114.02493238449097,36.196538148730994 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_14</value>
+    </Data>
+    <Data name='random'>
+      <value>0.08489403691522013</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03149843215942,36.192901651164355 -114.03103709220886,36.19361164739381 -114.03131604194641,36.19364628119152 -114.03167009353638,36.193057504546694 -114.03149843215942,36.192901651164355 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_15</value>
+    </Data>
+    <Data name='random'>
+      <value>0.17817468400158898</value>
+    </Data>
+    <Data name='landcover'>
+      <value>2</value>
+    </Data>
+    <Data name='property'>
+      <value>riparianSediment</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04141187405912,36.18482282558426 -114.041390416387,36.18443315057635 -114.04109000897733,36.18443315057635 -114.04109000897733,36.18480550673618 -114.04141187405912,36.18482282558426 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_0</value>
+    </Data>
+    <Data name='random'>
+      <value>0.92276171429181</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.06108856201172,36.178206771806984 -114.05954360961914,36.1783453341556 -114.05885696411133,36.180146622387404 -114.06143188476562,36.180146622387404 -114.06108856201172,36.178206771806984 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_1</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3196176909926076</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05027389526367,36.163656361530464 -114.04855728149414,36.16310200677002 -114.04804229736328,36.16490364540794 -114.04975891113281,36.165042231280346 -114.05027389526367,36.163656361530464 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_2</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5775040044670513</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.13078308105469,36.15104382087541 -114.12923812866211,36.15076659939522 -114.1285514831543,36.15215269699681 -114.13061141967773,36.152707129177855 -114.13078308105469,36.15104382087541 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_3</value>
+    </Data>
+    <Data name='random'>
+      <value>0.32152128689160253</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10091400146484,36.111945921649 -114.09954071044922,36.11402608757969 -114.10177230834961,36.11485813852445 -114.10263061523438,36.11319402781914 -114.10091400146484,36.111945921649 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_4</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8348384950453446</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.1069221496582,36.11166856202867 -114.10520553588867,36.11166856202867 -114.10486221313477,36.11319402781914 -114.10709381103516,36.11319402781914 -114.1069221496582,36.11166856202867 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_5</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5048396953690153</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.92169952392578,36.12331682269459 -113.92049789428711,36.12303950323644 -113.91998291015625,36.12428743308351 -113.92135620117188,36.12484206220346 -113.92169952392578,36.12331682269459 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_6</value>
+    </Data>
+    <Data name='random'>
+      <value>0.4993284242854986</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.8868522644043,36.08448256814837 -113.88513565063477,36.08448256814837 -113.8846206665039,36.08559238466139 -113.88582229614258,36.0857311106239 -113.8868522644043,36.08448256814837 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_7</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7802706546984288</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.8542366027832,36.059923870148154 -113.85286331176758,36.05964632692448 -113.85251998901367,36.060895263721896 -113.85406494140625,36.061172802540355 -113.8542366027832,36.059923870148154 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_8</value>
+    </Data>
+    <Data name='random'>
+      <value>0.909845609414358</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00409698486328,36.108541697920565 -114.00289535522461,36.10840301222199 -114.00272369384766,36.109165780533864 -114.00409698486328,36.10909643826614 -114.00409698486328,36.108541697920565 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_9</value>
+    </Data>
+    <Data name='random'>
+      <value>0.49774219797803576</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98040771484375,36.111384700778 -113.98006439208984,36.11214744013379 -113.98092269897461,36.11221677970792 -113.98040771484375,36.111384700778 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_10</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6814469848074065</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.96976470947266,36.10951249095421 -113.96873474121094,36.11041393088467 -113.96985054016113,36.110691294935684 -113.96976470947266,36.10951249095421 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_11</value>
+    </Data>
+    <Data name='random'>
+      <value>0.4643704216885993</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.96452903747559,36.11263281586702 -113.9637565612793,36.1133955431014 -113.96478652954102,36.1133955431014 -113.96452903747559,36.11263281586702 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_12</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9587864454676576</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98564338684082,36.117278403262475 -113.9860725402832,36.11637704212224 -113.98469924926758,36.11630770622135 -113.98564338684082,36.117278403262475 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_13</value>
+    </Data>
+    <Data name='random'>
+      <value>0.4397461069901696</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00444030761719,36.12421160457902 -114.00392532348633,36.12511287577963 -114.00469779968262,36.12511287577963 -114.00444030761719,36.12421160457902 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_14</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8099961136040659</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00572776794434,36.12393428828174 -114.00538444519043,36.12504354759311 -114.0065860748291,36.12497421934534 -114.00572776794434,36.12393428828174 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_15</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3174221659858034</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9278793334961,36.094457742297095 -113.92513275146484,36.095706126331976 -113.92805099487305,36.09653837133782 -113.9278793334961,36.094457742297095 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_16</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9692467300819</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9278793334961,36.09917375570786 -113.92753601074219,36.10083816345389 -113.92959594726562,36.10083816345389 -113.9278793334961,36.09917375570786 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_17</value>
+    </Data>
+    <Data name='random'>
+      <value>0.31882997654426015</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.8564682006836,36.04409564305254 -113.85543823242188,36.04541422513307 -113.8564682006836,36.04534482662678 -113.8564682006836,36.04409564305254 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_18</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3951776773486937</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.82445335388184,36.040486779171964 -113.82359504699707,36.04229123178811 -113.8249683380127,36.04187482331615 -113.82445335388184,36.040486779171964 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_19</value>
+    </Data>
+    <Data name='random'>
+      <value>0.08737114775336219</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.80325317382812,36.05401916580767 -113.80419731140137,36.05422733820196 -113.80462646484375,36.05332525385003 -113.80359649658203,36.052978295577006 -113.80325317382812,36.05401916580767 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_20</value>
+    </Data>
+    <Data name='random'>
+      <value>0.615149856825269</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.81758689880371,36.051735539650984 -113.81664276123047,36.0516661467172 -113.81707191467285,36.05319277712841 -113.81810188293457,36.052915210165146 -113.81758689880371,36.051735539650984 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_21</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3064614343902319</value>
+    </Data>
+    <Data name='landcover'>
+      <value>4</value>
+    </Data>
+    <Data name='property'>
+      <value>canyon</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.79921913146973,36.023904067267935 -113.79844665527344,36.02327930790669 -113.79741668701172,36.024042902008794 -113.79844665527344,36.02466765531536 -113.79921913146973,36.023904067267935 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_0</value>
+    </Data>
+    <Data name='random'>
+      <value>0.470895604619304</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98418426513672,36.11967692685804 -113.98358345031738,36.12037025336111 -113.98435592651367,36.12040491952555 -113.9848279953003,36.11981559264845 -113.98418426513672,36.11967692685804 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_1</value>
+    </Data>
+    <Data name='random'>
+      <value>0.0043374996999212545</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98499965667725,36.12165289125133 -113.98439884185791,36.12217287361571 -113.98469924926758,36.1224501961352 -113.98534297943115,36.12196488108324 -113.98499965667725,36.12165289125133 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_2</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5253790643624815</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.96650314331055,36.13877583271698 -113.96547317504883,36.13846390970403 -113.96534442901611,36.139018438647525 -113.96620273590088,36.139053096576355 -113.96650314331055,36.13877583271698 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_3</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7810462883828597</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.96856307983398,36.14088994489697 -113.96817684173584,36.14037008652794 -113.96800518035889,36.14088994489697 -113.96856307983398,36.14088994489697 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_4</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9922139515190982</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97409915924072,36.142033621183465 -113.97469997406006,36.14175636785712 -113.97448539733887,36.141513770392805 -113.97409915924072,36.142033621183465 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_5</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3636731864456091</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97633075714111,36.14383574392117 -113.97684574127197,36.14348918507136 -113.97637367248535,36.14310796856822 -113.97581577301025,36.14341987311765 -113.97633075714111,36.14383574392117 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_6</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9822072705490085</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98100852966309,36.14681608682845 -113.98045063018799,36.146608159602486 -113.9802360534668,36.14692005023475 -113.9807939529419,36.14709332227235 -113.98100852966309,36.14681608682845 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_7</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7723160269961977</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.973069190979,36.13291840445356 -113.973069190979,36.13329967046681 -113.9736270904541,36.13333433092162 -113.9736270904541,36.13291840445356 -113.973069190979,36.13291840445356 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_8</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3361987050562478</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98843288421631,36.14328124902658 -113.98821830749512,36.143801088105086 -113.98886203765869,36.143801088105086 -113.98843288421631,36.14328124902658 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_9</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6445339645125344</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.96517276763916,36.14854879227645 -113.96457195281982,36.148410177249225 -113.96435737609863,36.149033942942594 -113.9652156829834,36.14896463588831 -113.96517276763916,36.14854879227645 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_10</value>
+    </Data>
+    <Data name='random'>
+      <value>0.5404598825657747</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14082527160645,36.0923831667044 -114.13970947265625,36.09196702330108 -114.13902282714844,36.093215446900814 -114.14048194885254,36.093007377678 -114.14082527160645,36.0923831667044 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_11</value>
+    </Data>
+    <Data name='random'>
+      <value>0.14933963632853797</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14760589861544,36.08447606527107 -114.1481208827463,36.08392115109345 -114.14657593035372,36.08364369253583 -114.14760589861544,36.08447606527107 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_12</value>
+    </Data>
+    <Data name='random'>
+      <value>0.31658355405319805</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10263061785372,36.084753520891105 -114.10168648028048,36.08558588187587 -114.10237312578829,36.08579397074506 -114.10263061785372,36.084753520891105 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_13</value>
+    </Data>
+    <Data name='random'>
+      <value>0.34597432834353303</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9775753126014,36.13211470722468 -113.97663117502816,36.132877245208064 -113.97766114328988,36.13301588768175 -113.9775753126014,36.13211470722468 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_14</value>
+    </Data>
+    <Data name='random'>
+      <value>0.11045389453342436</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00006295298226,36.11672372070831 -113.9995479688514,36.11748640821012 -114.00092125986703,36.117347738306265 -114.00006295298226,36.11672372070831 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_15</value>
+    </Data>
+    <Data name='random'>
+      <value>0.8660374256010459</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98959160898812,36.11492097534715 -113.98890496348031,36.11568368035843 -113.98993493174203,36.11568368035843 -113.98959160898812,36.11492097534715 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_16</value>
+    </Data>
+    <Data name='random'>
+      <value>0.09824237539007497</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.93577576731332,36.12823258027255 -113.9358615980018,36.129133805306395 -113.93714905832894,36.12892583121704 -113.93577576731332,36.12823258027255 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_17</value>
+    </Data>
+    <Data name='random'>
+      <value>0.9027020579943009</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.95122527028434,36.12698471367143 -113.95036696339957,36.12788595303308 -113.95131110097282,36.12802460432413 -113.95122527028434,36.12698471367143 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_18</value>
+    </Data>
+    <Data name='random'>
+      <value>0.7147993239767088</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99602890014648,36.16906032838432 -113.9952564239502,36.16940677423236 -113.99602890014648,36.16961464100608 -113.99602890014648,36.16906032838432 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_19</value>
+    </Data>
+    <Data name='random'>
+      <value>0.6679243943967547</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9897632598877,36.16996108440377 -113.98890495300293,36.170238238019245 -113.98959159851074,36.170653966604746 -113.9897632598877,36.16996108440377 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>2_20</value>
+    </Data>
+    <Data name='random'>
+      <value>0.3977223119226262</value>
+    </Data>
+    <Data name='landcover'>
+      <value>5</value>
+    </Data>
+    <Data name='property'>
+      <value>exposedLakeBed</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00536298751831,36.16895698428937 -114.005126953125,36.169476063218184 -114.00598526000977,36.16892174961631 -114.00536298751831,36.16895698428937 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+</Document>
+</kml>

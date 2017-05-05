@@ -1,0 +1,4309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.1514253616333,36.058362676781286 -114.15318489074707,36.057911659597735 -114.15327072143555,36.05360951962136 -114.15228366851807,36.05086851747868 -114.1494083404541,36.05090321430484 -114.14936542510986,36.05128487838291 -114.1505241394043,36.051423664861574 -114.15009498596191,36.05378299755776 -114.15000915527344,36.0545462959354 -114.15095329284668,36.05513611233877 -114.15082454681396,36.05579531367634 -114.15060997009277,36.05683614665164 -114.1514253616333,36.058362676781286 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.15078163146973,36.08202010681579 -114.15322780609131,36.07681747013 -114.15039539337158,36.07251636390728 -114.14872169494629,36.073314167507874 -114.14812088012695,36.074666946422106 -114.14777755737305,36.07598501631599 -114.148850440979,36.0775805450517 -114.14966583251953,36.07889856611203 -114.15013790130615,36.07959225253351 -114.14970874786377,36.08035530052888 -114.14782047271729,36.08212415603831 -114.15078163146973,36.08202010681579 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09580707550049,36.11017773728775 -114.09743785858154,36.10775075276198 -114.09743785858154,36.10705731483805 -114.09627914428711,36.10629452605129 -114.09507751464844,36.10788943961219 -114.09580707550049,36.11017773728775 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09512042999268,36.1168688919116 -114.09580707550049,36.115863521653964 -114.0968370437622,36.115863521653964 -114.09709453582764,36.115447502609804 -114.09786701202393,36.115898189808156 -114.09859657287598,36.116452878193726 -114.09966945648193,36.11652221396643 -114.09876823425293,36.11458078918906 -114.09443378448486,36.115170155355926 -114.09451961517334,36.116036862271876 -114.09512042999268,36.1168688919116 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0866231918335,36.13004151962791 -114.0875244140625,36.13014550526331 -114.08782482147217,36.13045746134286 -114.08821105957031,36.12993753385473 -114.08885478973389,36.12952158938432 -114.08984184265137,36.12920962958494 -114.09039974212646,36.1286896938306 -114.08958435058594,36.128412393353315 -114.08889770507812,36.12816975463202 -114.0866231918335,36.13004151962791 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09082889556885,36.13250247604554 -114.09147262573242,36.13253713685242 -114.09147262573242,36.13212120615926 -114.09194469451904,36.13194790105318 -114.09168720245361,36.131670612087426 -114.09091472625732,36.13142798343871 -114.09052848815918,36.131670612087426 -114.09082889556885,36.13250247604554 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0941333770752,36.16005298551353 -114.0950345993042,36.15936000959889 -114.09370422363281,36.157142445511326 -114.09250259399414,36.15748894403441 -114.0941333770752,36.16005298551353 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0988540649414,36.15568713499313 -114.09872531890869,36.1538852845476 -114.09735202789307,36.15346946702648 -114.09679412841797,36.153815981780525 -114.09786701202393,36.154716912975005 -114.0988540649414,36.15568713499313 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08576488494873,36.15689989563406 -114.0884256362915,36.154994120490876 -114.08791065216064,36.15426644867163 -114.08692359924316,36.15502877136145 -114.0860652923584,36.15520202548467 -114.08619403839111,36.1559643390791 -114.08537864685059,36.15658804468937 -114.08576488494873,36.15689989563406 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0791130065918,36.152083392698565 -114.08014297485352,36.150731946641294 -114.08010005950928,36.14958839717209 -114.08044338226318,36.14892998233821 -114.08121585845947,36.14906859644677 -114.08138751983643,36.14854879227645 -114.07975673675537,36.14816760036208 -114.07851219177246,36.15173687028867 -114.0791130065918,36.152083392698565 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.071044921875,36.17067207517483 -114.07110929489136,36.170221702545085 -114.07061576843262,36.16990990459296 -114.07007932662964,36.16848947600242 -114.07025098800659,36.168004445709585 -114.06954288482666,36.16796980057381 -114.06949996948242,36.16739815362253 -114.06842708587646,36.16734618551112 -114.06889915466309,36.17001383738149 -114.071044921875,36.17067207517483 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07186031341553,36.16663595120192 -114.07207489013672,36.16663595120192 -114.07207489013672,36.16604697152753 -114.0723967552185,36.16594303347852 -114.07235383987427,36.16554460301381 -114.07246112823486,36.16492096865539 -114.07246112823486,36.16422803577123 -114.07123804092407,36.164141418730026 -114.07106637954712,36.16479970584285 -114.07192468643188,36.16490364540794 -114.07177448272705,36.16585641833239 -114.07186031341553,36.16663595120192 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04480218887329,36.17952310422473 -114.04480218887329,36.178968861691835 -114.04475927352905,36.17857049744947 -114.04473781585693,36.17818945149615 -114.04497385025024,36.178085529550906 -114.0450382232666,36.17770448123891 -114.04608964920044,36.177739122071145 -114.04591798782349,36.176855776065366 -114.04587507247925,36.176457401078814 -114.04415845870972,36.17652668383067 -114.04398679733276,36.17853585698484 -114.0435791015625,36.17962702426312 -114.044029712677,36.17978290406225 -114.0441370010376,36.17945382412255 -114.04480218887329,36.17952310422473 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05061721801758,36.17966166424528 -114.05175447463989,36.1763881182657 -114.0505313873291,36.17637079755282 -114.05050992965698,36.17723682850498 -114.0501880645752,36.17737539256901 -114.05014514923096,36.17881298027301 -114.04980182647705,36.17876101973114 -114.04988765716553,36.17957506426114 -114.04937267303467,36.17957506426114 -114.04932975769043,36.17992146362333 -114.05061721801758,36.17966166424528 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05237674713135,36.2069532083904 -114.05186176300049,36.20612213429582 -114.05276298522949,36.205325680007626 -114.05211925506592,36.20529105137646 -114.05113220214844,36.205602708505374 -114.05061721801758,36.205221794068166 -114.04993057250977,36.205741222386536 -114.04984474182129,36.20729948665857 -114.05237674713135,36.2069532083904 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03061866760254,36.17803356852656 -114.03375148773193,36.175677965899034 -114.03220653533936,36.17491584400401 -114.03010368347168,36.17737539256901 -114.03061866760254,36.17803356852656 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03130531311035,36.181220447590356 -114.03368711471558,36.1796097042663 -114.03297901153564,36.17917670310117 -114.03197050094604,36.18037178050439 -114.03199195861816,36.18061425775279 -114.03177738189697,36.180770135587615 -114.03134822845459,36.18080477506432 -114.03130531311035,36.181220447590356 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01293754577637,36.20082382949488 -114.01388168334961,36.20023510682379 -114.01383876800537,36.19936933014693 -114.01280879974365,36.199230804990094 -114.01242256164551,36.20002732129456 -114.01293754577637,36.20082382949488 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00482654571533,36.1969797368374 -114.00306701660156,36.195802229252045 -114.00156497955322,36.19691047217554 -114.0031099319458,36.19909227958815 -114.00482654571533,36.1969797368374 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_19</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01634931564331,36.2316217003369 -114.01637077331543,36.231898635732534 -114.01654243469238,36.23177747661764 -114.0166711807251,36.232019794659706 -114.01660680770874,36.232608278207 -114.01568412780762,36.232556353366284 -114.01568412780762,36.233127524717695 -114.01639223098755,36.23307560022182 -114.0171217918396,36.233040983872044 -114.01710033416748,36.232296728645444 -114.01720762252808,36.231587083343484 -114.01669263839722,36.231587083343484 -114.01637077331543,36.23129283828069 -114.01615619659424,36.231327455404355 -114.01604890823364,36.23153515782462 -114.01634931564331,36.2316217003369 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_20</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02038335800171,36.23430447070922 -114.02089834213257,36.23458139660314 -114.021155834198,36.23489293706137 -114.02175664901733,36.23465062792335 -114.02225017547607,36.233889080029314 -114.02134895324707,36.233439070968984 -114.0205979347229,36.23350830330069 -114.01999711990356,36.233577535571094 -114.01997566223145,36.233871772036416 -114.02038335800171,36.23430447070922 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_21</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0057921409607,36.25507119071831 -114.00499820709229,36.255053887415585 -114.00469779968262,36.254119503376934 -114.00405406951904,36.25415411039247 -114.00381803512573,36.25372152159668 -114.00216579437256,36.25372152159668 -114.00107145309448,36.253704217995036 -114.00066375732422,36.25455208996921 -114.00238037109375,36.25507119071831 -114.00450468063354,36.2560055633751 -114.00611400604248,36.25545186240894 -114.0057921409607,36.25507119071831 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_22</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99894714355469,36.11936492793423 -114.00002002716064,36.11901826100922 -114.00002002716064,36.11846359074561 -113.99911880493164,36.11818625414443 -113.99834632873535,36.11818625414443 -113.99838924407959,36.11860225867885 -113.99697303771973,36.11856759171851 -113.99680137634277,36.11901826100922 -113.99637222290039,36.12005825719239 -113.99894714355469,36.11936492793423 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_23</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97703886032104,36.12057825011815 -113.97802591323853,36.119971591369925 -113.97817611694336,36.11969426009523 -113.97888422012329,36.1193822612403 -113.97920608520508,36.11884492697277 -113.9802360534668,36.11808225266644 -113.9820384979248,36.117943583814835 -113.98345470428467,36.115690180653395 -113.98188829421997,36.114944809990895 -113.9814805984497,36.11556884172535 -113.98092269897461,36.11614086645896 -113.97995710372925,36.11709423175519 -113.97976398468018,36.11742357344028 -113.97982835769653,36.118203587710696 -113.97935628890991,36.118203587710696 -113.97836923599243,36.11907026114555 -113.97830486297607,36.11955559409053 -113.97783279418945,36.11995425819396 -113.97727489471436,36.12016225605304 -113.97703886032104,36.12057825011815 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_24</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.93963813781738,36.12775380079336 -113.94075393676758,36.12553534309289 -113.93311500549316,36.12255419182743 -113.9326000213623,36.12414877519126 -113.93397331237793,36.12484206220346 -113.93345832824707,36.12615929065834 -113.93534660339355,36.12712986590231 -113.93723487854004,36.127545823047406 -113.93963813781738,36.12775380079336 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_25</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99699449539185,36.18807872583031 -113.99499893188477,36.190676401683966 -113.99553537368774,36.19088421202997 -113.99740219116211,36.18842508758914 -113.99699449539185,36.18807872583031 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_1_26</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99094343185425,36.18787090803978 -113.99150133132935,36.18769772612643 -113.99184465408325,36.187455270804385 -113.99214506149292,36.18702231300535 -113.9924669265747,36.18677985559246 -113.99244546890259,36.18655471589413 -113.98984909057617,36.18646812353017 -113.98989200592041,36.18768040791403 -113.99094343185425,36.18787090803978 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14992332458496,36.05818920893968 -114.14949417114258,36.05659328685533 -114.14915084838867,36.055066722403105 -114.14880752563477,36.05326256260144 -114.14863586425781,36.05194411197707 -114.14743423461914,36.05118078836333 -114.14571762084961,36.0513195750255 -114.14631843566895,36.05319317101392 -114.1476058959961,36.05929939651828 -114.14992332458496,36.05818920893968 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14717674255371,36.08087555628015 -114.14743423461914,36.078100819161946 -114.14528846740723,36.074771005374785 -114.14769172668457,36.07081666838132 -114.1409969329834,36.074771005374785 -114.13902282714844,36.08247098578556 -114.14717674255371,36.08087555628015 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09988403320312,36.10764673746366 -114.10391807556152,36.1047342531898 -114.09868240356445,36.10327797055952 -114.09653663635254,36.105358366053174 -114.09988403320312,36.10764673746366 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09876823425293,36.118324922567474 -114.09670829772949,36.11659154967791 -114.09533500671387,36.11742357344028 -114.0933609008789,36.118255588386546 -114.09876823425293,36.118324922567474 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09284591674805,36.13087340085351 -114.09293174743652,36.128932330944565 -114.08838272094727,36.1312893381598 -114.09284591674805,36.13087340085351 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09928321838379,36.1576275430149 -114.09979820251465,36.157142445511326 -114.09576416015625,36.15554853258268 -114.0941333770752,36.15638014337053 -114.09567832946777,36.158736326038714 -114.09645080566406,36.15887492281419 -114.09636497497559,36.157142445511326 -114.09928321838379,36.1576275430149 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08434867858887,36.15513272388132 -114.08975601196289,36.15180617489314 -114.08400535583496,36.14882602159602 -114.08048629760742,36.15312295074127 -114.08434867858887,36.15513272388132 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07181739807129,36.16899182564138 -114.07336235046387,36.167744606818005 -114.07147407531738,36.16725957191555 -114.07078742980957,36.16601232552651 -114.07044410705566,36.16719028097017 -114.07181739807129,36.16899182564138 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04932975769043,36.204529217614784 -114.05250549316406,36.20376737643796 -114.05276298522949,36.202174411834484 -114.05010223388672,36.20300552784606 -114.04932975769043,36.204529217614784 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0479564666748,36.18021590187694 -114.04915809631348,36.17619759021374 -114.04735565185547,36.175989740901365 -114.04735565185547,36.178622458117694 -114.04606819152832,36.17876101973114 -114.0479564666748,36.18021590187694 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02890205383301,36.1822249804225 -114.03164863586426,36.17986950381666 -114.03250694274902,36.177998927824554 -114.03087615966797,36.17903814222288 -114.03018951416016,36.17876101973114 -114.02890205383301,36.1822249804225 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00967597961426,36.19968101085363 -114.0135383605957,36.19607929145354 -114.00718688964844,36.19538663411147 -114.00555610656738,36.19808796309354 -114.00967597961426,36.19968101085363 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99388313293457,36.19033004988186 -113.99602890014648,36.18728208797198 -113.99345397949219,36.18735136115089 -113.99388313293457,36.19033004988186 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01885986328125,36.23430447070922 -114.0201473236084,36.232435195270504 -114.01997566223145,36.23028893502754 -114.01748657226562,36.230358170148435 -114.01885986328125,36.23430447070922 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00589942932129,36.25313319699069 -114.00675773620605,36.24884175409772 -114.00306701660156,36.24884175409772 -114.00289535522461,36.25244104472376 -114.00589942932129,36.25313319699069 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99654388427734,36.11721556832619 -114.00135040283203,36.11735423846347 -114.00126457214355,36.115898189808156 -113.9967155456543,36.11562084414604 -113.99654388427734,36.11721556832619 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97688865661621,36.11908759451668 -113.98075103759766,36.11485813852445 -113.97860527038574,36.114095425495115 -113.97568702697754,36.11458078918906 -113.97688865661621,36.11908759451668 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'1998'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.93869400024414,36.13156662847267 -113.9377498626709,36.128516381147094 -113.92873764038086,36.12692188650319 -113.92762184143066,36.12914030501672 -113.93869400024414,36.13156662847267 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.147047996521,36.06006264139291 -114.14837837219238,36.05829328969053 -114.14927959442139,36.05784227210931 -114.1482925415039,36.056974923341606 -114.14812088012695,36.0550320274123 -114.1482925415039,36.05388708413608 -114.14889335632324,36.05246455565132 -114.1473913192749,36.051701237084735 -114.14533138275146,36.05152775455996 -114.147047996521,36.06006264139291 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14799213409424,36.08014719726451 -114.14752006530762,36.07841298197583 -114.147047996521,36.07702558220663 -114.14567470550537,36.075846273156934 -114.14618968963623,36.07418133615574 -114.14734840393066,36.072065427857645 -114.14807796478271,36.07130229942241 -114.14142608642578,36.07317541963695 -114.13958072662354,36.0818813743049 -114.1448163986206,36.08097960701733 -114.14507389068604,36.079349462982115 -114.14661884307861,36.07889856611203 -114.147047996521,36.08000846144895 -114.14799213409424,36.08014719726451 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10057067871094,36.10636387079253 -114.10194396972656,36.10525434758695 -114.1036605834961,36.10494229136186 -114.10550594329834,36.10570509327921 -114.10705089569092,36.10383274807797 -114.10215854644775,36.10237644873644 -114.10057067871094,36.102272426321925 -114.10082817077637,36.10286188484971 -114.10190105438232,36.10310460178158 -114.1019868850708,36.104179482037566 -114.1001844406128,36.105393038844646 -114.10057067871094,36.10636387079253 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09434795379639,36.11804758547651 -114.09344673156738,36.11728490342543 -114.0926742553711,36.11759691061444 -114.093017578125,36.118116919841064 -114.09276008605957,36.1197115933286 -114.09769535064697,36.12040491952555 -114.09778118133545,36.11919159466304 -114.09344673156738,36.11860225867885 -114.09434795379639,36.11804758547651 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09306049346924,36.13094272389097 -114.09306049346924,36.128551043714424 -114.09108638763428,36.12972956189507 -114.09031391143799,36.13004151962791 -114.08958435058594,36.13052678474774 -114.08885478973389,36.13083873931181 -114.0900993347168,36.13066543137375 -114.09198760986328,36.13059610809133 -114.09306049346924,36.13094272389097 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0959358215332,36.156830595531304 -114.09838199615479,36.156830595531304 -114.09821033477783,36.15624154218505 -114.09589290618896,36.155895038149474 -114.09512042999268,36.154716912975005 -114.0946912765503,36.153815981780525 -114.09318923950195,36.15374667895221 -114.09400463104248,36.15509807305667 -114.09542083740234,36.15766219272175 -114.09589290618896,36.157454294250996 -114.0959358215332,36.156830595531304 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08456325531006,36.154405053348285 -114.08692359924316,36.15315760243871 -114.08688068389893,36.15260317344249 -114.08447742462158,36.15288038843056 -114.08417701721191,36.15152895610777 -114.08649444580078,36.15107847349152 -114.08765316009521,36.15055868264198 -114.08391952514648,36.14761313608857 -114.08022880554199,36.1526378253696 -114.08456325531006,36.154405053348285 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07203197479248,36.16930362724605 -114.07374858856201,36.16750208974195 -114.07147407531738,36.16746744438412 -114.07061576843262,36.166739888332074 -114.07061576843262,36.16590838743155 -114.070143699646,36.16590838743155 -114.070143699646,36.16729421736527 -114.071044921875,36.16746744438412 -114.07147407531738,36.167848542478005 -114.07143115997314,36.16899182564138 -114.07203197479248,36.16930362724605 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04673337936401,36.18250209066106 -114.0476131439209,36.180770135587615 -114.04780626296997,36.1794884641813 -114.04842853546143,36.17881298027301 -114.04733419418335,36.17827605301193 -114.04701232910156,36.17891690125335 -114.04639005661011,36.17964434425612 -114.04518842697144,36.18089137368914 -114.04484510421753,36.181774674194116 -114.0446949005127,36.18267528406234 -114.04673337936401,36.18250209066106 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03126239776611,36.17914206290456 -114.02999639511108,36.17981754397551 -114.02939558029175,36.1799041436916 -114.02838706970215,36.18049301922241 -114.02735710144043,36.1813590046089 -114.02596235275269,36.18219034157376 -114.0264344215393,36.182606006747775 -114.02770042419434,36.18283115779614 -114.02939558029175,36.182727242008056 -114.02971744537354,36.18203446656487 -114.03016805648804,36.18125508686796 -114.03141260147095,36.18023322173974 -114.03222799301147,36.17941918404848 -114.03257131576538,36.17827605301193 -114.03126239776611,36.17914206290456 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05287027359009,36.200945036554046 -114.05093908309937,36.20082382949488 -114.05087471008301,36.202122466790755 -114.05048847198486,36.2027631199209 -114.04986619949341,36.2035422855803 -114.0494155883789,36.20404441045111 -114.04890060424805,36.20484087777718 -114.04913663864136,36.2049447642222 -114.04954433441162,36.204442645127216 -114.04967308044434,36.2039058935671 -114.05044555664062,36.203594229681826 -114.05138969421387,36.20380200574323 -114.05173301696777,36.20375006177959 -114.05141115188599,36.20310941672705 -114.05136823654175,36.20243413653604 -114.05177593231201,36.201862741055095 -114.05287027359009,36.200945036554046 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00918245315552,36.2007891988721 -114.00928974151611,36.1998541662656 -114.00722980499268,36.19950785505866 -114.00604963302612,36.19916154231974 -114.00493383407593,36.19826112202903 -114.00454759597778,36.198815228048886 -114.00465488433838,36.19983685074164 -114.00918245315552,36.2007891988721 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0121865272522,36.19774164407363 -114.01231527328491,36.19715289822398 -114.01023387908936,36.19685852363892 -114.00913953781128,36.196512199180646 -114.00755167007446,36.1959927096209 -114.0066933631897,36.195629064878204 -114.00594234466553,36.19611392415979 -114.00619983673096,36.19644293410516 -114.00744438171387,36.196806575067825 -114.00924682617188,36.19730874314444 -114.011070728302,36.197689696088524 -114.0121865272522,36.19774164407363 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01637077331543,36.22997737622496 -114.01740074157715,36.230358170148435 -114.01761531829834,36.230669727433835 -114.01834487915039,36.23115436963271 -114.01881694793701,36.23077357958644 -114.01971817016602,36.230496640206304 -114.01864528656006,36.23028893502754 -114.01748657226562,36.230011993931 -114.01602745056152,36.22907731048918 -114.01529788970947,36.23021969984534 -114.01637077331543,36.22997737622496 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00903224945068,36.24126193652304 -114.00954723358154,36.239912028885385 -114.01014804840088,36.239773575501886 -114.01036262512207,36.23852748401542 -114.0111780166626,36.23717752915707 -114.00967597961426,36.236208316421354 -114.0074872970581,36.23631216121777 -114.00688648223877,36.236865997802404 -114.00727272033691,36.238285186142015 -114.00722980499268,36.239496667999234 -114.00615692138672,36.24074274403659 -114.00903224945068,36.24126193652304 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00049209594727,36.19168081324769 -114.00139331817627,36.19136910069278 -114.00280952453613,36.18690108439274 -114.00195121765137,36.18655471589413 -114.00083541870117,36.19008760270893 -114.00049209594727,36.19168081324769 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99388313293457,36.11957292735451 -113.99568557739258,36.116452878193726 -113.99748802185059,36.115759517099534 -113.99740219116211,36.11312468910784 -113.9915657043457,36.11818625414443 -113.99388313293457,36.11957292735451 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97935628890991,36.12395812018949 -113.97935628890991,36.123542144032996 -113.97804737091064,36.123542144032996 -113.97718906402588,36.123784797058825 -113.97585868835449,36.12418343968728 -113.97493600845337,36.12487672639336 -113.97427082061768,36.12541401937922 -113.97476434707642,36.125673998536044 -113.97568702697754,36.12506737916413 -113.97660970687866,36.12439142634198 -113.97748947143555,36.124044781611346 -113.97849798202515,36.12402744933463 -113.97935628890991,36.12395812018949 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.92925262451172,36.12678323326427 -113.93019676208496,36.12834306808092 -113.93174171447754,36.129972195794416 -113.93298625946045,36.13080407775481 -113.93470287322998,36.13201722314154 -113.93470287322998,36.1313239995025 -113.93311500549316,36.13038813787679 -113.93178462982178,36.128897668545655 -113.93054008483887,36.12758048604335 -113.92899513244629,36.12473806954196 -113.92822265625,36.12491139056794 -113.92925262451172,36.12678323326427 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_1_2_19</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.94307136535645,36.13232917178139 -113.94259929656982,36.131774595564394 -113.93980979919434,36.131774595564394 -113.9380931854248,36.131774595564394 -113.93822193145752,36.13222518903923 -113.94307136535645,36.13232917178139 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.1523265838623,36.058848384703474 -114.15133953094482,36.05045215437209 -114.15026664733887,36.05013988059685 -114.14897918701172,36.051007304691474 -114.14945125579834,36.05173593354383 -114.1499662399292,36.05194411197707 -114.1499662399292,36.05256864397322 -114.14992332458496,36.05378299755776 -114.14958000183105,36.05430342907277 -114.1494083404541,36.05465038150424 -114.14983749389648,36.05465038150424 -114.14992332458496,36.05537897663185 -114.14970874786377,36.05579531367634 -114.1499662399292,36.05669736971695 -114.1505241394043,36.057391251943145 -114.15043830871582,36.05857083768647 -114.1523265838623,36.058848384703474 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14790630340576,36.0736610361144 -114.14773464202881,36.0745975737105 -114.14752006530762,36.07549941418841 -114.14752006530762,36.07629718752892 -114.14824962615967,36.076990896898764 -114.14855003356934,36.07789270993093 -114.14889335632324,36.07900261946538 -114.14936542510986,36.08032061668972 -114.14880752563477,36.0811877080786 -114.14790630340576,36.081465175303485 -114.14700508117676,36.08101429056579 -114.14636135101318,36.08125707497662 -114.147047996521,36.081950740590955 -114.14777755737305,36.08344210093838 -114.148850440979,36.08288717946268 -114.15078163146973,36.07986972538858 -114.15275573730469,36.074077276422834 -114.1503095626831,36.0721348028028 -114.14863586425781,36.07289792316073 -114.14764881134033,36.07334885443737 -114.14790630340576,36.0736610361144 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09859657287598,36.10414480871047 -114.09773826599121,36.10494229136186 -114.09627914428711,36.10563574795645 -114.09924030303955,36.10730001880774 -114.0988540649414,36.10664124914531 -114.09876823425293,36.105080983170474 -114.09902572631836,36.10414480871047 -114.10035610198975,36.10459556076901 -114.10074234008789,36.104006115249064 -114.09975528717041,36.10390209499231 -114.09984111785889,36.10310460178158 -114.09932613372803,36.10306992798007 -114.09859657287598,36.10414480871047 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09928321838379,36.119434261135545 -114.09975528717041,36.11752757579068 -114.10009860992432,36.116799556444995 -114.0976095199585,36.116452878193726 -114.09623622894287,36.11669555313034 -114.09533500671387,36.11718090075361 -114.09421920776367,36.1161061984119 -114.09374713897705,36.11631420646466 -114.09494876861572,36.11752757579068 -114.09597873687744,36.117804914718356 -114.09709453582764,36.1178742492972 -114.09773826599121,36.118255588386546 -114.09872531890869,36.118220921273135 -114.09928321838379,36.119434261135545 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08791065216064,36.13090806237991 -114.08924102783203,36.12986820992941 -114.0906572341919,36.128932330944565 -114.09070014953613,36.128412393353315 -114.08967018127441,36.127961777988226 -114.08782482147217,36.127719137873974 -114.08597946166992,36.12955625150772 -114.08610820770264,36.13056144642721 -114.08791065216064,36.13090806237991 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09160137176514,36.13274510137238 -114.09215927124023,36.13173993442071 -114.09121513366699,36.1313239995025 -114.09039974212646,36.1313239995025 -114.09027099609375,36.13198256210502 -114.09160137176514,36.13274510137238 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09936904907227,36.15447435559474 -114.09748077392578,36.15288038843056 -114.09627914428711,36.15343481546687 -114.09640789031982,36.153954587253395 -114.09610748291016,36.1546129599039 -114.09700870513916,36.155167374690656 -114.09855365753174,36.155895038149474 -114.09936904907227,36.15447435559474 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09409046173096,36.1602955256366 -114.09529209136963,36.159394658540094 -114.09486293792725,36.158320534242314 -114.09417629241943,36.157142445511326 -114.09374713897705,36.15648409409885 -114.09207344055176,36.157142445511326 -114.09409046173096,36.1602955256366 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07924175262451,36.15256852150007 -114.08027172088623,36.15107847349152 -114.08052921295166,36.15024680647864 -114.08074378967285,36.14958839717209 -114.0816879272461,36.148999289423124 -114.08211708068848,36.14802898466116 -114.07898426055908,36.14771709843842 -114.07924175262451,36.15256852150007 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08563613891602,36.15194478391835 -114.08795356750488,36.15163291326713 -114.08782482147217,36.151286388866716 -114.08627986907959,36.151667565622944 -114.08563613891602,36.151667565622944 -114.08563613891602,36.15194478391835 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08881187438965,36.15489016778727 -114.08825397491455,36.1535041185708 -114.08700942993164,36.1543704022021 -114.08593654632568,36.15530597777485 -114.0849494934082,36.15662269485559 -114.08881187438965,36.15489016778727 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0721607208252,36.166739888332074 -114.0727186203003,36.16528475596746 -114.0727186203003,36.16386424355495 -114.07186031341553,36.162963417467346 -114.07005786895752,36.163656361530464 -114.07117366790771,36.16528475596746 -114.07168865203857,36.166532013933896 -114.0721607208252,36.166739888332074 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07121658325195,36.171243698246904 -114.07190322875977,36.170481533224276 -114.07151699066162,36.16992722673394 -114.07083034515381,36.1697193607893 -114.07031536102295,36.16822963871885 -114.07022953033447,36.16767531630141 -114.06919956207275,36.16694776217894 -114.06786918640137,36.16701705333872 -114.07121658325195,36.171243698246904 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04937267303467,36.180770135587615 -114.05078887939453,36.17619759021374 -114.04950141906738,36.17637079755282 -114.04860019683838,36.1802851813052 -114.04937267303467,36.180770135587615 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04478073120117,36.17973094416368 -114.04679775238037,36.17695969964178 -114.04538154602051,36.17564332415553 -114.04340744018555,36.17872637935075 -114.04478073120117,36.17973094416368 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03100490570068,36.182398174436486 -114.03164863586426,36.181774674194116 -114.03242111206055,36.180874053971834 -114.0334939956665,36.180146622387404 -114.03332233428955,36.17876101973114 -114.03087615966797,36.181774674194116 -114.03100490570068,36.182398174436486 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03053283691406,36.17827605301193 -114.03396606445312,36.175989740901365 -114.03040409088135,36.175539398833116 -114.02898788452148,36.179349903854394 -114.03053283691406,36.17827605301193 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05186176300049,36.20442533061823 -114.05014514923096,36.204563846583014 -114.04915809631348,36.206018249413496 -114.04928684234619,36.20709171988151 -114.05293464660645,36.205706593939226 -114.05186176300049,36.20442533061823 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0097188949585,36.19936933014693 -114.01044845581055,36.19839964890164 -114.00542736053467,36.19684120745238 -114.00534152984619,36.19781090800017 -114.0097188949585,36.19936933014693 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_19</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00250911712646,36.20002732129456 -114.00383949279785,36.19829575377018 -114.00079250335693,36.197984067548425 -114.0007495880127,36.19975027306438 -114.00250911712646,36.20002732129456 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_20</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02074813842773,36.23219287851575 -114.02134895324707,36.23056587514329 -114.02023315429688,36.231050517985814 -114.01941776275635,36.231431306683454 -114.01950359344482,36.23295444293059 -114.02074813842773,36.23219287851575 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_21</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01744365692139,36.23291982652721 -114.01744365692139,36.23136207251273 -114.0164566040039,36.230669727433835 -114.01559829711914,36.23091204890874 -114.01585578918457,36.23177747661764 -114.01482582092285,36.23222749524095 -114.01516914367676,36.23326598987153 -114.01744365692139,36.23291982652721 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_22</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00873184204102,36.244965409554226 -114.00937557220459,36.2427848812558 -114.00499820709229,36.24209263732846 -114.00371074676514,36.24468852044388 -114.00873184204102,36.244965409554226 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_23</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99967670440674,36.190676401683966 -114.0005350112915,36.18762845325385 -113.99791717529297,36.187074268067605 -113.99783134460449,36.19081494197592 -113.99967670440674,36.190676401683966 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_24</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99826049804688,36.12151422870585 -114.00062084197998,36.119884925451814 -114.00014877319336,36.11763157800336 -113.99791717529297,36.117908916563685 -113.9967155456543,36.118394256687154 -113.99594306945801,36.11804758547651 -113.9961576461792,36.1191569279629 -113.99598598480225,36.12037025336111 -113.99701595306396,36.12037025336111 -113.99701595306396,36.121236902880185 -113.99826049804688,36.12151422870585 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_25</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97615909576416,36.120924910155374 -113.97500038146973,36.124044781611346 -113.97581577301025,36.12366347063968 -113.97714614868164,36.1228661780776 -113.9796781539917,36.12283151299992 -113.98212432861328,36.118428923724025 -113.97615909576416,36.120924910155374 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_1_2_26</value>
+    </Data>
+    <Data name='year'>
+      <value>'2003'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.94255638122559,36.131012046867205 -113.94272804260254,36.12816975463202 -113.9322566986084,36.126436599095484 -113.93071174621582,36.122484861381245 -113.92925262451172,36.12373280004501 -113.93354415893555,36.12969489984821 -113.93568992614746,36.13115069263597 -113.93757820129395,36.13115069263597 -113.94255638122559,36.131012046867205 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14700508117676,36.060201412392914 -114.14820671081543,36.05860553111714 -114.14902210235596,36.05805043439107 -114.14889335632324,36.05746063982926 -114.14816379547119,36.05680145244092 -114.14803504943848,36.054927942348186 -114.14867877960205,36.05367891084181 -114.14872169494629,36.05274212420384 -114.14721965789795,36.05218698611998 -114.14477348327637,36.051978808329075 -114.14700508117676,36.060201412392914 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14803504943848,36.071926677783786 -114.14833545684814,36.07109417220052 -114.14125442504883,36.07275917455547 -114.14000988006592,36.08208947297943 -114.1448163986206,36.08132644181344 -114.14485931396484,36.07910667268105 -114.1464900970459,36.07875982809339 -114.14726257324219,36.079522884166735 -114.14777755737305,36.079522884166735 -114.14709091186523,36.07820487357094 -114.14709091186523,36.07764991513195 -114.14610385894775,36.07595033054918 -114.14631843566895,36.07390384322871 -114.14631843566895,36.072238865105774 -114.14803504943848,36.071926677783786 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10584926605225,36.105219674734265 -114.10735130310059,36.10379807459782 -114.10417556762695,36.10223775215315 -114.1010856628418,36.10192568394556 -114.10095691680908,36.10237644873644 -114.10211563110352,36.10313927556778 -114.10207271575928,36.10424882864584 -114.10104274749756,36.105393038844646 -114.1010856628418,36.105809111148616 -114.10155773162842,36.10518500186626 -114.10215854644775,36.10459556076901 -114.10241603851318,36.10372872759165 -114.10275936126709,36.10372872759165 -114.10275936126709,36.10306992798007 -114.10400390625,36.10286188484971 -114.1043472290039,36.10383274807797 -114.10417556762695,36.10442219489872 -114.10584926605225,36.105219674734265 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09782409667969,36.12089024422052 -114.09790992736816,36.119607593870995 -114.09520626068115,36.11898359423254 -114.09417629241943,36.11856759171851 -114.09379005432129,36.118220921273135 -114.09323215484619,36.119538260822736 -114.09284591674805,36.12012758978146 -114.09782409667969,36.12089024422052 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09318923950195,36.131012046867205 -114.09323215484619,36.128551043714424 -114.09160137176514,36.129278954091966 -114.0906572341919,36.13004151962791 -114.09027099609375,36.129972195794416 -114.08975601196289,36.13052678474774 -114.09318923950195,36.131012046867205 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09563541412354,36.1579393898252 -114.09563541412354,36.15693454566245 -114.09619331359863,36.15655339450783 -114.09773826599121,36.15658804468937 -114.09722328186035,36.15603363994745 -114.09619331359863,36.15603363994745 -114.09550666809082,36.15527132702677 -114.09451961517334,36.15360807311185 -114.09318923950195,36.15367737606265 -114.09563541412354,36.1579393898252 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08443450927734,36.15485551685543 -114.08597946166992,36.15378133037402 -114.08649444580078,36.15301899555711 -114.08825397491455,36.15256852150007 -114.09027099609375,36.152256653329346 -114.09121513366699,36.15145965125833 -114.09095764160156,36.15093986293516 -114.08868312835693,36.152083392698565 -114.08670902252197,36.152395261558326 -114.08503532409668,36.15281108477543 -114.08301830291748,36.1543704022021 -114.08254623413086,36.154924818703805 -114.08443450927734,36.15485551685543 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08881187438965,36.149033942942594 -114.08984184265137,36.1477864065951 -114.08619403839111,36.1456724802647 -114.08447742462158,36.14692005023475 -114.08881187438965,36.149033942942594 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0746283531189,36.170117770032206 -114.07535791397095,36.16710366720229 -114.07437086105347,36.16670524263733 -114.07364130020142,36.16925166039809 -114.0746283531189,36.170117770032206 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07085180282593,36.16663595120192 -114.07085180282593,36.1657524800307 -114.07020807266235,36.16564854159117 -114.06980037689209,36.16495561513881 -114.06943559646606,36.16571783389948 -114.070143699646,36.16594303347852 -114.07027244567871,36.16698240776651 -114.07085180282593,36.16663595120192 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05538082122803,36.20040826101018 -114.05649662017822,36.1980186994121 -114.05645370483398,36.19601002599509 -114.0516471862793,36.19784553994047 -114.05100345611572,36.20210515176853 -114.05027389526367,36.20328256455562 -114.05126094818115,36.203628859063706 -114.05117511749268,36.20258997094334 -114.05246257781982,36.200304368544295 -114.05353546142578,36.19902301679523 -114.0554666519165,36.19898838537581 -114.05538082122803,36.20040826101018 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0446949005127,36.186762537177096 -114.04473781585693,36.18561951329691 -114.04276371002197,36.18499603869524 -114.04096126556396,36.1852731391309 -114.0392017364502,36.18586197430174 -114.03937339782715,36.18617370877653 -114.04259204864502,36.185584875949246 -114.04387950897217,36.18617370877653 -114.04460906982422,36.18766308969781 -114.0446949005127,36.186762537177096 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03332233428955,36.19015687340634 -114.03409481048584,36.1890831707108 -114.03310775756836,36.189394892364696 -114.03207778930664,36.19046859078651 -114.0314769744873,36.19150763975925 -114.03332233428955,36.19015687340634 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02658462524414,36.19601002599509 -114.02649879455566,36.1955251660701 -114.0245246887207,36.195940760475345 -114.02285099029541,36.19621782218663 -114.02297973632812,36.196529515439934 -114.02426719665527,36.19618318952634 -114.02658462524414,36.19601002599509 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01231527328491,36.19760311603672 -114.01235818862915,36.19718753045534 -114.00986909866333,36.1970836337153 -114.00847434997559,36.1965468316954 -114.0072512626648,36.1959927096209 -114.00596380233765,36.19555979902145 -114.00549173355103,36.19595807686102 -114.00677919387817,36.19649488291752 -114.00851726531982,36.196945104514114 -114.00989055633545,36.19734337530687 -114.01231527328491,36.19760311603672 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00907516479492,36.20155106903477 -114.00913953781128,36.20068530691177 -114.00585651397705,36.200373630203536 -114.00469779968262,36.19973295751743 -114.00439739227295,36.199455908245476 -114.00383949279785,36.20016584504199 -114.00405406951904,36.200564099450474 -114.00907516479492,36.20155106903477 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01843070983887,36.23153515782462 -114.0184736251831,36.230998592110645 -114.01845216751099,36.230600492588806 -114.01963233947754,36.230669727433835 -114.01916027069092,36.23032355259564 -114.01785135269165,36.23008122929708 -114.0172290802002,36.22978697856785 -114.0164566040039,36.229215782815125 -114.01572704315186,36.228852292436535 -114.01495456695557,36.23013315578141 -114.01654243469238,36.22999468507989 -114.01748657226562,36.23041009644887 -114.0181303024292,36.2311024438265 -114.01843070983887,36.23153515782462 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0107274055481,36.237921737923756 -114.01175737380981,36.236519850396775 -114.01233673095703,36.23561985996966 -114.0100622177124,36.23529101472926 -114.0087103843689,36.235135245448426 -114.00795936584473,36.23546409134399 -114.00774478912354,36.236606387391866 -114.00742292404175,36.23695253441432 -114.0107274055481,36.237921737923756 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00141477584839,36.190208826389224 -114.00171518325806,36.18915244229668 -114.0025520324707,36.186745218757906 -114.00223016738892,36.186329575548676 -114.00173664093018,36.18697035790862 -114.00122165679932,36.18825190690119 -114.000985622406,36.18949879930694 -114.00070667266846,36.19083225949517 -114.00057792663574,36.19175008253584 -114.00137186050415,36.19150763975925 -114.00141477584839,36.190208826389224 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_19</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98373365402222,36.12686989156729 -113.98399114608765,36.12742450244114 -113.9842700958252,36.128412393353315 -113.9845061302185,36.12929628520914 -113.98459196090698,36.13002418867527 -113.98523569107056,36.1306307697402 -113.98602962493896,36.13134133016809 -113.98684501647949,36.13137599148781 -113.98720979690552,36.13087340085351 -113.98645877838135,36.13075208539063 -113.98508548736572,36.13004151962791 -113.98480653762817,36.129278954091966 -113.98457050323486,36.12836039940474 -113.98386240005493,36.12673123823654 -113.98317575454712,36.126072631570814 -113.98263931274414,36.126401935594416 -113.98373365402222,36.12686989156729 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_20</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97939920425415,36.12375013238678 -113.97905588150024,36.12312616567233 -113.97770404815674,36.12309150070946 -113.97633075714111,36.12326482537081 -113.97562265396118,36.12401011705408 -113.97467851638794,36.12480739799827 -113.97412061691284,36.12548334723858 -113.97450685501099,36.125760658063626 -113.97594451904297,36.12440875853834 -113.97660970687866,36.12369813534999 -113.97939920425415,36.12375013238678 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_21</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9431357383728,36.13224251950582 -113.94277095794678,36.13170527326172 -113.94019603729248,36.13170527326172 -113.93837213516235,36.13170527326172 -113.93790006637573,36.13180925669277 -113.9380931854248,36.132173197616474 -113.9431357383728,36.13224251950582 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_1_2_22</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.93448829650879,36.132086545168676 -113.93468141555786,36.13172260384312 -113.93174171447754,36.12962557570857 -113.93109798431396,36.12853371243266 -113.93049716949463,36.12737250783818 -113.9288878440857,36.12463407674269 -113.92830848693848,36.124790065889925 -113.9296817779541,36.127355176296206 -113.9302396774292,36.127979109396264 -113.93090486526489,36.12898432451428 -113.93148422241211,36.12992020287914 -113.93193483352661,36.130370807000695 -113.93448829650879,36.132086545168676 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14915084838867,36.05187471922715 -114.14953708648682,36.05256864397322 -114.14970874786377,36.05385238862527 -114.14936542510986,36.0545462959354 -114.14975166320801,36.055066722403105 -114.14902210235596,36.05614225953095 -114.14923667907715,36.056766758214906 -114.15013790130615,36.057183087917686 -114.14988040924072,36.058501450779254 -114.14889335632324,36.058952464582475 -114.14902210235596,36.0596116339527 -114.15082454681396,36.05964632692448 -114.15060997009277,36.05645450949239 -114.14975166320801,36.049758210966964 -114.14790630340576,36.050937911115675 -114.14915084838867,36.05187471922715 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14932250976562,36.07244698929871 -114.14799213409424,36.07282854888869 -114.1473913192749,36.07480569166176 -114.14752006530762,36.07626250189977 -114.14816379547119,36.07754585998861 -114.14820671081543,36.07865577441875 -114.14889335632324,36.07945351573879 -114.14880752563477,36.080563403242486 -114.14773464202881,36.080771505405295 -114.14618968963623,36.079557568357764 -114.14584636688232,36.07986972538858 -114.14571762084961,36.08097960701733 -114.14618968963623,36.08212415603831 -114.1473913192749,36.08368487785236 -114.15245532989502,36.072585738454684 -114.15018081665039,36.071441050597734 -114.14910793304443,36.071961365325194 -114.14932250976562,36.07244698929871 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10121440887451,36.104006115249064 -114.10121440887451,36.103624706967636 -114.1001844406128,36.10289655874305 -114.09954071044922,36.10282721094111 -114.09842491149902,36.103867421542766 -114.0970516204834,36.10438752167874 -114.09524917602539,36.10563574795645 -114.09966945648193,36.10667592137054 -114.09958362579346,36.10497696433698 -114.1005277633667,36.105393038844646 -114.10039901733398,36.10463023389716 -114.10121440887451,36.104006115249064 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09898281097412,36.12009292349456 -114.10014152526855,36.11752757579068 -114.09482002258301,36.11617553449072 -114.09310340881348,36.11617553449072 -114.09306049346924,36.11745824090571 -114.09692287445068,36.118324922567474 -114.0976095199585,36.11887959381067 -114.0988540649414,36.11887959381067 -114.09898281097412,36.12009292349456 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09052848815918,36.12920962958494 -114.09104347229004,36.128135091896326 -114.09014225006104,36.127961777988226 -114.0898847579956,36.127303181647314 -114.08816814422607,36.127337844750414 -114.08658027648926,36.12882834370187 -114.08567905426025,36.129278954091966 -114.08705234527588,36.13118535403988 -114.08833980560303,36.13087340085351 -114.08765316009521,36.12976422392662 -114.08906936645508,36.128897668545655 -114.09052848815918,36.12920962958494 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0915584564209,36.13309170768092 -114.09207344055176,36.13274510137238 -114.09224510192871,36.13149730598629 -114.09104347229004,36.1312200154285 -114.08979892730713,36.1312893381598 -114.0915584564209,36.13309170768092 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09876823425293,36.15601631473611 -114.09939050674438,36.15558318320827 -114.09722328186035,36.15284573661066 -114.09679412841797,36.15279375885207 -114.0959358215332,36.153400163891945 -114.09634351730347,36.1540758668412 -114.09567832946777,36.15443970447918 -114.09597873687744,36.1547688894589 -114.09735202789307,36.15560050851532 -114.09876823425293,36.15601631473611 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09565687179565,36.15920408917397 -114.09415483474731,36.15676129536731 -114.09353256225586,36.155947013852426 -114.09185886383057,36.15707314562294 -114.09471273422241,36.16036482267678 -114.09565687179565,36.15920408917397 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08915519714355,36.15464761094292 -114.0884256362915,36.15298434379845 -114.08679485321045,36.154405053348285 -114.08559322357178,36.15513272388132 -114.08486366271973,36.15586038766171 -114.08632278442383,36.15651874431101 -114.08915519714355,36.15464761094292 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0880823135376,36.151494303690704 -114.0875244140625,36.15107847349152 -114.08679485321045,36.1506626410875 -114.0869665145874,36.15003888834738 -114.0855073928833,36.15003888834738 -114.08434867858887,36.151563608509534 -114.08396244049072,36.15236060952405 -114.0880823135376,36.151494303690704 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08434867858887,36.14882602159602 -114.08263206481934,36.14698935909574 -114.08027172088623,36.14653885040467 -114.07791137695312,36.1497963164976 -114.07859802246094,36.15204874052648 -114.08434867858887,36.14882602159602 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07267570495605,36.16698240776651 -114.07293319702148,36.16369100857285 -114.07224655151367,36.16268623812699 -114.07005786895752,36.163275243053775 -114.06997203826904,36.16431465271674 -114.07108783721924,36.165076877710156 -114.07147407531738,36.166497368147276 -114.07267570495605,36.16698240776651 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07168865203857,36.171278341935434 -114.07220363616943,36.16885324675225 -114.07005786895752,36.167432799010996 -114.06954288482666,36.16656665970523 -114.06786918640137,36.16660130546122 -114.06855583190918,36.16982329383053 -114.07168865203857,36.171278341935434 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05332088470459,36.205671965476604 -114.05211925506592,36.20414829795327 -114.0514326095581,36.204529217614784 -114.05048847198486,36.20414829795327 -114.04975891113281,36.20473699119426 -114.049072265625,36.205845107636556 -114.0485143661499,36.206918580479304 -114.05332088470459,36.205671965476604 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0426778793335,36.18430328331728 -114.0444803237915,36.18440719701456 -114.0464973449707,36.18565415062927 -114.04958724975586,36.18232889687683 -114.04366493225098,36.18146292221198 -114.04070377349854,36.18437255913077 -114.0426778793335,36.18430328331728 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0322494506836,36.1891178065114 -114.03053283691406,36.18884071967775 -114.02662754058838,36.194416903538226 -114.02817249298096,36.19452080381695 -114.02988910675049,36.19285838281298 -114.03044700622559,36.191542274487574 -114.03083324432373,36.19057249630417 -114.0322494506836,36.1891178065114 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00984764099121,36.20023510682379 -114.01139259338379,36.19826112202903 -114.00516986846924,36.196668045376434 -114.00452613830566,36.198226490272575 -114.00461196899414,36.19888449102561 -114.00984764099121,36.20023510682379 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00315284729004,36.19971564196665 -114.00392532348633,36.19812259491127 -114.0031099319458,36.19725679487209 -114.00143623352051,36.199473223853715 -114.00315284729004,36.19971564196665 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02128458023071,36.232400578637225 -114.022057056427,36.231240912566435 -114.0192461013794,36.23077357958644 -114.01898860931396,36.23188132729905 -114.02128458023071,36.232400578637225 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_19</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01770114898682,36.23290251831977 -114.0176796913147,36.23131014684443 -114.01639223098755,36.23047933146247 -114.01549100875854,36.23065241872831 -114.01581287384033,36.23179478507413 -114.01497602462769,36.23191594416221 -114.01448249816895,36.23252173678664 -114.01770114898682,36.23290251831977 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_20</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01066303253174,36.24167728802927 -114.01143550872803,36.238804394951195 -114.00542736053467,36.23762751669998 -114.00525569915771,36.23980818887074 -114.01079177856445,36.2419541878073 -114.01066303253174,36.24167728802927 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_21</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.99980545043945,36.19078030692591 -114.00092124938965,36.187316724569094 -113.99813175201416,36.18690108439274 -113.99791717529297,36.19143837025664 -113.99980545043945,36.19078030692591 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_22</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98813247680664,36.13066543137375 -113.99006366729736,36.12896699332819 -113.98667335510254,36.12723385539524 -113.98534297943115,36.12896699332819 -113.98813247680664,36.13066543137375 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_23</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98006439208984,36.122658187381916 -113.98190975189209,36.119434261135545 -113.97714614868164,36.1191569279629 -113.9741849899292,36.12317816308797 -113.97637367248535,36.12193021560758 -113.98006439208984,36.122658187381916 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_1_2_24</value>
+    </Data>
+    <Data name='year'>
+      <value>'2007'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9426851272583,36.13135866082987 -113.94281387329102,36.13014550526331 -113.93440246582031,36.12834306808092 -113.93122673034668,36.125570006976645 -113.9307975769043,36.124044781611346 -113.9296817779541,36.12418343968728 -113.93028259277344,36.125639334698214 -113.93165588378906,36.127927115160674 -113.93251419067383,36.12896699332819 -113.9342737197876,36.13049212305297 -113.93551826477051,36.13149730598629 -113.9426851272583,36.13135866082987 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.1464900970459,36.06009733416584 -114.14726257324219,36.05943816886431 -114.14777755737305,36.05857083768647 -114.14670467376709,36.05589939759334 -114.14717674255371,36.05478916204858 -114.14794921875,36.053470736996935 -114.14679050445557,36.051978808329075 -114.14370059967041,36.05180532641609 -114.1464900970459,36.06009733416584 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14786338806152,36.07102479633751 -114.14314270019531,36.07140636282684 -114.1398811340332,36.07411196301577 -114.1395378112793,36.07990440942662 -114.14138317108154,36.081291758402664 -114.14271354675293,36.08066745439273 -114.14340019226074,36.07983504133523 -114.14249897003174,36.078794512621 -114.14194107055664,36.077753970137586 -114.14219856262207,36.07653998650445 -114.14417266845703,36.0779620797358 -114.14451599121094,36.07886388163032 -114.14588928222656,36.07806613432837 -114.14653301239014,36.07782334006484 -114.14576053619385,36.07636655874128 -114.14576053619385,36.07494443665665 -114.14614677429199,36.07303667152121 -114.147047996521,36.071926677783786 -114.14786338806152,36.07102479633751 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10632133483887,36.10497696433698 -114.10808086395264,36.103312644269195 -114.1074800491333,36.10112817067241 -114.10263061523438,36.101509591073906 -114.10125732421875,36.10182166093424 -114.10250186920166,36.10237644873644 -114.10228729248047,36.10324329683452 -114.1034460067749,36.102584493152264 -114.10529136657715,36.1024804710132 -114.10683631896973,36.10244579693626 -114.10675048828125,36.10359003339569 -114.10524845123291,36.10431817519291 -114.10632133483887,36.10497696433698 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09722328186035,36.12193021560758 -114.0979528427124,36.12106357374168 -114.09769535064697,36.12016225605304 -114.09473419189453,36.120820912304914 -114.09327507019043,36.12227686967531 -114.09722328186035,36.12193021560758 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09355401992798,36.130648100558865 -114.09355401992798,36.12842972466184 -114.09151554107666,36.12917496730849 -114.09104347229004,36.129902871899716 -114.09039974212646,36.13018016711114 -114.09080743789673,36.13049212305297 -114.09355401992798,36.130648100558865 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09138679504395,36.14920721031037 -114.0910005569458,36.14789036871529 -114.0919017791748,36.146157648721996 -114.09284591674805,36.14504868783872 -114.09091472625732,36.145291274371615 -114.08997058868408,36.14698935909574 -114.0900993347168,36.14917255686744 -114.09138679504395,36.14920721031037 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09477710723877,36.156310842808395 -114.09520626068115,36.15547923128559 -114.09460544586182,36.15454365777994 -114.09473419189453,36.15398923858334 -114.09374713897705,36.15298434379845 -114.09314632415771,36.15246456558098 -114.09258842468262,36.15319225412082 -114.09340381622314,36.153815981780525 -114.09439086914062,36.15579108664021 -114.09477710723877,36.156310842808395 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09121513366699,36.15139034634761 -114.09078598022461,36.15093986293516 -114.08906936645508,36.15194478391835 -114.08782482147217,36.152395261558326 -114.08563613891602,36.152707129177855 -114.08426284790039,36.15281108477543 -114.08263206481934,36.154197146241444 -114.08220291137695,36.15495946960498 -114.08426284790039,36.154994120490876 -114.08537864685059,36.153400163891945 -114.08653736114502,36.15298434379845 -114.08765316009521,36.1526378253696 -114.08975601196289,36.1522220012338 -114.09121513366699,36.15139034634761 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07535791397095,36.166497368147276 -114.07404899597168,36.16637610777349 -114.07374858856201,36.16982329383053 -114.0745210647583,36.170221702545085 -114.07535791397095,36.166497368147276 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07477855682373,36.1655272799042 -114.07495021820068,36.16412409531029 -114.07422065734863,36.1645918262992 -114.07411336898804,36.166133586463104 -114.07477855682373,36.1655272799042 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0574836730957,36.189533434923725 -114.05718326568604,36.18922171382126 -114.05508041381836,36.19005296733722 -114.05276298522949,36.191299831067624 -114.05001640319824,36.19275448032835 -114.04834270477295,36.19375886523795 -114.04928684234619,36.193862766389856 -114.05177593231201,36.19237350337187 -114.0540075302124,36.19136910069278 -114.0574836730957,36.189533434923725 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04478073120117,36.1873340428619 -114.04484510421753,36.186364212567014 -114.04480218887329,36.185394370263225 -114.04430866241455,36.18490944460807 -114.04293537139893,36.18508263268668 -114.04063940048218,36.18537705154153 -114.03896570205688,36.1861910273221 -114.03924465179443,36.18652007896004 -114.04027462005615,36.18582733706129 -114.04115438461304,36.18544632640536 -114.04203414916992,36.18529045787557 -114.04345035552979,36.18523850163005 -114.04415845870972,36.18525582038238 -114.0442442893982,36.18622566440171 -114.04450178146362,36.18740331599488 -114.04478073120117,36.1873340428619 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03197050094604,36.19133446588785 -114.03366565704346,36.19000101425099 -114.03420209884644,36.18927366742453 -114.03418064117432,36.18890999147808 -114.03347253799438,36.18875412984118 -114.03143405914307,36.19110933928251 -114.03115510940552,36.19169813057547 -114.03197050094604,36.19133446588785 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01928901672363,36.196668045376434 -114.0207052230835,36.1965468316954 -114.02276515960693,36.19635635267464 -114.022958278656,36.19601002599509 -114.0174651145935,36.19633903637704 -114.01761531829834,36.19685852363892 -114.01928901672363,36.196668045376434 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01237964630127,36.197551167959695 -114.01240110397339,36.19706631757855 -114.01087760925293,36.19710094984823 -114.00989055633545,36.19687583982162 -114.0087103843689,36.19644293410516 -114.00755167007446,36.1957849128319 -114.00626420974731,36.19530005151288 -114.00538444519043,36.19587149489433 -114.0066933631897,36.196373668968405 -114.00879621505737,36.19687583982162 -114.01237964630127,36.197551167959695 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01379585266113,36.20889234695865 -114.01388168334961,36.207230231127504 -114.01113510131836,36.2049447642222 -114.0095043182373,36.206399159974545 -114.0106201171875,36.20778427366009 -114.01379585266113,36.20889234695865 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01478290557861,36.22976966966695 -114.01572704315186,36.22828108985666 -114.01619911193848,36.22706943420927 -114.0157699584961,36.22447296603798 -114.01401042938232,36.22519998581471 -114.01310920715332,36.22616933500472 -114.01177883148193,36.227588717499664 -114.0117359161377,36.22855803708309 -114.01478290557861,36.22976966966695 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00027751922607,36.19206179357424 -114.00122165679932,36.192027159075685 -114.00126457214355,36.19039932036482 -114.00190830230713,36.18748990732494 -114.00263786315918,36.186381531070445 -114.00207996368408,36.18624298293578 -114.00122165679932,36.187766998937704 -114.00066375732422,36.18984515478542 -114.00032043457031,36.19161154389828 -114.00027751922607,36.19206179357424 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98330450057983,36.12700854465311 -113.9845061302185,36.128412393353315 -113.98465633392334,36.12931361632251 -113.98504257202148,36.13047479219982 -113.9857292175293,36.13111603121674 -113.98690938949585,36.13156662847267 -113.9869737625122,36.13115069263597 -113.98568630218506,36.13047479219982 -113.98530006408691,36.129850878938505 -113.98487091064453,36.12816975463202 -113.98414134979248,36.127181860666 -113.98343324661255,36.12638460383815 -113.98298263549805,36.12678323326427 -113.98330450057983,36.12700854465311 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_19</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97944211959839,36.12373280004501 -113.97944211959839,36.12333415512819 -113.97875547409058,36.12293550818706 -113.97770404815674,36.122900843139995 -113.97663116455078,36.122900843139995 -113.97495746612549,36.12430476530282 -113.9741849899292,36.125102043254515 -113.97405624389648,36.125466015279464 -113.97424936294556,36.12577798995768 -113.97527933120728,36.12454741597139 -113.97594451904297,36.12395812018949 -113.9766526222229,36.12345548205631 -113.97851943969727,36.12338615240605 -113.97944211959839,36.12373280004501 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_20</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.94304990768433,36.13222518903923 -113.94304990768433,36.131791926130475 -113.9413332939148,36.131791926130475 -113.93957376480103,36.13175726499447 -113.93779277801514,36.131861248356614 -113.93779277801514,36.132173197616474 -113.94152641296387,36.13210387566588 -113.94304990768433,36.13222518903923 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_1_2_21</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.93448829650879,36.13222518903923 -113.93465995788574,36.13170527326172 -113.93307209014893,36.13080407775481 -113.93187046051025,36.12969489984821 -113.93126964569092,36.128481718564494 -113.93066883087158,36.12712986590231 -113.92916679382324,36.125119375293984 -113.92903804779053,36.12428743308351 -113.92848014831543,36.12435676193782 -113.92869472503662,36.12560467084507 -113.92955303192139,36.126852559914354 -113.9302396774292,36.12834306808092 -113.93092632293701,36.129452265091615 -113.93182754516602,36.130422799617484 -113.93290042877197,36.13111603121674 -113.93448829650879,36.13222518903923 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14837837219238,36.05222168236493 -114.1490650177002,36.052638036111354 -114.14923667907715,36.05395647511181 -114.14949417114258,36.055066722403105 -114.14872169494629,36.05589939759334 -114.14897918701172,36.05666267544504 -114.14923667907715,36.05805043439107 -114.14880752563477,36.059021851092 -114.1482925415039,36.05971571282216 -114.14803504943848,36.060825878864335 -114.14915084838867,36.061172802540355 -114.14992332458496,36.05305438765536 -114.14897918701172,36.04979290828251 -114.14674758911133,36.05097260791122 -114.14837837219238,36.05222168236493 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14846420288086,36.07230823989795 -114.14752006530762,36.073626349322595 -114.14726257324219,36.076089073524656 -114.14816379547119,36.07671341388517 -114.14790630340576,36.0779620797358 -114.14713382720947,36.078967935029574 -114.14485931396484,36.079557568357764 -114.14468765258789,36.08045935195451 -114.14580345153809,36.08281781400284 -114.1496229171753,36.07980035726661 -114.15194034576416,36.076158444920615 -114.15245532989502,36.072204177686764 -114.1499662399292,36.070955420413306 -114.14910793304443,36.0714757383533 -114.14846420288086,36.07230823989795 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10477638244629,36.103624706967636 -114.10554885864258,36.10324329683452 -114.10443305969238,36.10310460178158 -114.10314559936523,36.103555359808446 -114.10207271575928,36.105150328982994 -114.10078525543213,36.105843783741136 -114.10138607025146,36.10338199164263 -114.09971237182617,36.10289655874305 -114.09855365753174,36.105219674734265 -114.09992694854736,36.106987970708964 -114.10477638244629,36.103624706967636 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09859657287598,36.12043958567466 -114.10014152526855,36.118810260119545 -114.10009860992432,36.117943583814835 -114.09756660461426,36.11766624537697 -114.09361839294434,36.1163835423598 -114.0933609008789,36.117562243210216 -114.0946912765503,36.11853292474285 -114.09722328186035,36.11887959381067 -114.09709453582764,36.119434261135545 -114.0985107421875,36.11936492793423 -114.09859657287598,36.12043958567466 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09057140350342,36.12924429184612 -114.09087181091309,36.12823908005751 -114.08915519714355,36.12712986590231 -114.08589363098145,36.1288630061314 -114.08730983734131,36.13049212305297 -114.08838272094727,36.13080407775481 -114.08967018127441,36.129382940737685 -114.09057140350342,36.12924429184612 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09241676330566,36.13229451088266 -114.09241676330566,36.131393322141925 -114.09039974212646,36.13087340085351 -114.08984184265137,36.13187857890359 -114.09241676330566,36.13229451088266 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09859657287598,36.155895038149474 -114.09692287445068,36.153296209075286 -114.09606456756592,36.15256852150007 -114.0955924987793,36.153400163891945 -114.09619331359863,36.15405854119729 -114.09546375274658,36.15443970447918 -114.09859657287598,36.155895038149474 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09370422363281,36.160156931372434 -114.09576416015625,36.15953325415179 -114.0933609008789,36.15568713499313 -114.09181594848633,36.15662269485559 -114.09370422363281,36.160156931372434 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08945560455322,36.154924818703805 -114.08855438232422,36.15305364730049 -114.08666610717773,36.15468226196662 -114.08567905426025,36.155236676263364 -114.08520698547363,36.15617224150043 -114.08602237701416,36.15648409409885 -114.08945560455322,36.154924818703805 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08833980560303,36.15139034634761 -114.0871810913086,36.1506626410875 -114.0871810913086,36.14996958218114 -114.08469200134277,36.15003888834738 -114.08387660980225,36.151424998810626 -114.08537864685059,36.151979436136365 -114.08722400665283,36.15180617489314 -114.08833980560303,36.15139034634761 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08048629760742,36.15308829902854 -114.08173084259033,36.151840827172414 -114.08284664154053,36.151771522598565 -114.08357620239258,36.149934929075066 -114.08499240875244,36.14834086964374 -114.07984256744385,36.14865275338614 -114.07825469970703,36.15125173634245 -114.07894134521484,36.15288038843056 -114.08048629760742,36.15308829902854 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07267570495605,36.167051698895655 -114.07331943511963,36.16462647292809 -114.07319068908691,36.16317130132945 -114.0721607208252,36.162547648089294 -114.0707015991211,36.16493829189901 -114.07087326049805,36.16597767951018 -114.07267570495605,36.167051698895655 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07186031341553,36.171347629266585 -114.07228946685791,36.169857938147004 -114.07108783721924,36.16854144335578 -114.06980037689209,36.167571380411694 -114.06984329223633,36.16680917967563 -114.06795501708984,36.16781389727332 -114.07186031341553,36.171347629266585 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04091835021973,36.184441834883 -114.04306411743164,36.18423400744251 -114.04473781585693,36.18298703121973 -114.04641151428223,36.18426864538754 -114.04632568359375,36.1852731391309 -114.04842853546143,36.183506607058305 -114.04722690582275,36.180874053971834 -114.0410041809082,36.18329877713643 -114.04091835021973,36.184441834883 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05357837677002,36.20549882293361 -114.05263423919678,36.203698117781464 -114.05160427093506,36.20435607254391 -114.0505313873291,36.2039058935671 -114.04847145080566,36.205845107636556 -114.05409336090088,36.20556807999677 -114.05357837677002,36.20549882293361 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03143405914307,36.1887021758933 -114.02757167816162,36.19136910069278 -114.02684211730957,36.19334325925165 -114.02581214904785,36.19438227008134 -114.02714252471924,36.19413983545425 -114.02847290039062,36.19344716095503 -114.02963161468506,36.192581309214255 -114.02976036071777,36.19161154389828 -114.03044700622559,36.19050322597438 -114.03143405914307,36.1887021758933 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01044845581055,36.2027631199209 -114.01104927062988,36.19978490414676 -114.00448322296143,36.196390985258326 -114.00285243988037,36.196806575067825 -114.00272369384766,36.20168959008589 -114.01014804840088,36.20262460076948 -114.01044845581055,36.2027631199209 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01881694793701,36.22956196255728 -114.01907444000244,36.228142615875626 -114.01748657226562,36.2280733787932 -114.01675701141357,36.22866189204016 -114.01881694793701,36.22956196255728 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01607036590576,36.232642894748324 -114.01718616485596,36.23153515782462 -114.0164566040039,36.230254317444114 -114.01529788970947,36.230427405208005 -114.01512622833252,36.2317428596932 -114.01435375213623,36.232365961988634 -114.01607036590576,36.232642894748324 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_19</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0129804611206,36.232746744280334 -114.01366710662842,36.23146592374585 -114.0091609954834,36.229492726731415 -114.00873184204102,36.230600492588806 -114.0129804611206,36.232746744280334 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_20</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9992904663086,36.191057386897064 -113.99967670440674,36.18960270611132 -114.00014877319336,36.18811336207514 -114.00083541870117,36.187004994643594 -113.99911880493164,36.1867279003349 -113.99765968322754,36.19015687340634 -113.99748802185059,36.19175008253584 -113.9992904663086,36.191057386897064 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_21</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98770332336426,36.13059610809133 -113.99019241333008,36.1288630061314 -113.98744583129883,36.126436599095484 -113.98581504821777,36.12706053949718 -113.98615837097168,36.128724356321364 -113.98615837097168,36.12948692724563 -113.98693084716797,36.13018016711114 -113.98770332336426,36.13059610809133 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_22</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98083686828613,36.12262352221241 -113.9820384979248,36.12026625477594 -113.97826194763184,36.12012758978146 -113.97500038146973,36.12061291619073 -113.97439956665039,36.12338615240605 -113.97603034973145,36.12220753898422 -113.9773178100586,36.12186088461036 -113.98083686828613,36.12262352221241 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_1_2_23</value>
+    </Data>
+    <Data name='year'>
+      <value>'2011'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.94298553466797,36.1312893381598 -113.93543243408203,36.12948692724563 -113.93242835998535,36.126297944999365 -113.9311408996582,36.123940787893645 -113.92985343933105,36.12387145867199 -113.93131256103516,36.12712986590231 -113.9340591430664,36.13031881434948 -113.93551826477051,36.13115069263597 -113.94298553466797,36.1312893381598 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_0</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14640426635742,36.06044426105402 -114.14734840393066,36.05940347580073 -114.14786338806152,36.05867491793256 -114.14786338806152,36.057391251943145 -114.14730548858643,36.05659328685533 -114.14679050445557,36.055760619006755 -114.14687633514404,36.05489324729625 -114.14782047271729,36.05458099114032 -114.14816379547119,36.05385238862527 -114.1482925415039,36.053470736996935 -114.14709091186523,36.053436041302604 -114.14734840393066,36.052256378594564 -114.14550304412842,36.051978808329075 -114.14455890655518,36.05166654061038 -114.1441297531128,36.053019691777486 -114.14640426635742,36.06044426105402 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_1</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14614677429199,36.07692152623716 -114.14580345153809,36.07435476873794 -114.14657592773438,36.0722735525095 -114.14777755737305,36.07102479633751 -114.1427993774414,36.07067791610456 -114.13945198059082,36.07865577441875 -114.13936614990234,36.080598086974526 -114.14142608642578,36.08004314542579 -114.14254188537598,36.07914135705567 -114.14202690124512,36.076990896898764 -114.14331436157227,36.07636655874128 -114.14494514465332,36.07782334006484 -114.14614677429199,36.07692152623716 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_2</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10778045654297,36.10414480871047 -114.10872459411621,36.10272318912341 -114.10795211791992,36.10119751997404 -114.10250186920166,36.100954797150514 -114.10121440887451,36.10192568394556 -114.10177230834961,36.10206438107975 -114.10224437713623,36.10244579693626 -114.10241603851318,36.10327797055952 -114.10305976867676,36.10275786307795 -114.10417556762695,36.102272426321925 -114.10649299621582,36.102099055325034 -114.10773754119873,36.102099055325034 -114.10808086395264,36.10279253701716 -114.1069221496582,36.10338199164263 -114.10542011260986,36.104179482037566 -114.10778045654297,36.10414480871047 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_3</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10945415496826,36.1207169143167 -114.1094970703125,36.118428923724025 -114.1069221496582,36.11967692685804 -114.10469055175781,36.12258885702758 -114.10945415496826,36.1207169143167 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_4</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09512042999268,36.13253713685242 -114.09434795379639,36.133680934892205 -114.09550666809082,36.13413151742156 -114.09975528717041,36.12962557570857 -114.09825325012207,36.12952158938432 -114.09516334533691,36.13277976207211 -114.09512042999268,36.13253713685242 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_5</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09022808074951,36.1464695411456 -114.09087181091309,36.146573505011226 -114.09185886383057,36.1433159050723 -114.08962726593018,36.14338521711786 -114.08962726593018,36.14570713525402 -114.09022808074951,36.1464695411456 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_6</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09091472625732,36.151147778677824 -114.0904426574707,36.151009168243974 -114.08868312835693,36.15191013168503 -114.08769607543945,36.15236060952405 -114.08529281616211,36.152707129177855 -114.08117294311523,36.15520202548467 -114.08014297485352,36.15724639522902 -114.08194541931152,36.15655339450783 -114.0834903717041,36.15579108664021 -114.08434867858887,36.15468226196662 -114.08542156219482,36.153400163891945 -114.08700942993164,36.15288038843056 -114.08812522888184,36.15246456558098 -114.0891981124878,36.15229130540955 -114.09022808074951,36.15218734912296 -114.09091472625732,36.151147778677824 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_7</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07353401184082,36.17037760105599 -114.07426357269287,36.17037760105599 -114.0745210647583,36.16847215354365 -114.07516479492188,36.16639343069552 -114.07495021820068,36.16441859292502 -114.07512187957764,36.163517773207886 -114.07426357269287,36.163760302611614 -114.07413482666016,36.16597767951018 -114.07409191131592,36.16746744438412 -114.07387733459473,36.16958078318658 -114.07353401184082,36.17037760105599 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_8</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04053211212158,36.18655471589413 -114.04147624969482,36.18561951329691 -114.04216289520264,36.1852731391309 -114.04117584228516,36.18544632640536 -114.03988838195801,36.18617370877653 -114.03907299041748,36.186762537177096 -114.03937339782715,36.186866447611784 -114.04053211212158,36.18655471589413 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_9</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05761241912842,36.189394892364696 -114.05709743499756,36.18904853489489 -114.05392169952393,36.19081494197592 -114.05014514923096,36.192581309214255 -114.04860019683838,36.19344716095503 -114.04838562011719,36.19403593467 -114.04915809631348,36.19389740007651 -114.05336380004883,36.19168081324769 -114.05525207519531,36.19050322597438 -114.05761241912842,36.189394892364696 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_10</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.04475927352905,36.185065313896054 -114.04426574707031,36.1852731391309 -114.04443740844727,36.18586197430174 -114.04420137405396,36.186693263477366 -114.04396533966064,36.18757649855922 -114.04409408569336,36.18797481700398 -114.0445876121521,36.18764577147775 -114.0444803237915,36.18703963136327 -114.04443740844727,36.186329575548676 -114.0446949005127,36.18581001843532 -114.04518842697144,36.18575806253445 -114.04475927352905,36.185065313896054 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_11</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03134822845459,36.19102275195428 -114.0329360961914,36.188598267894115 -114.03177738189697,36.187593816794596 -114.0309190750122,36.1883558153599 -114.03053283691406,36.190988116996174 -114.03134822845459,36.19102275195428 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_12</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.02259349822998,36.19642561782672 -114.02276515960693,36.19597539324287 -114.017014503479,36.19635635267464 -114.01735782623291,36.19691047217554 -114.02259349822998,36.19642561782672 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_13</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0122938156128,36.19767238008582 -114.0122938156128,36.19718753045534 -114.01019096374512,36.1969797368374 -114.00843143463135,36.19628708746127 -114.0065860748291,36.19538663411147 -114.00504112243652,36.19531736804025 -114.00529861450195,36.195802229252045 -114.00753021240234,36.19670267782226 -114.01092052459717,36.19746458775471 -114.0122938156128,36.19767238008582 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_14</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.00066375732422,36.193793498970585 -114.00139331817627,36.193066187368615 -114.00113582611084,36.19185398635317 -114.00100708007812,36.19012223806529 -114.00173664093018,36.1883558153599 -114.00246620178223,36.18641616806582 -114.00190830230713,36.18641616806582 -114.0001916885376,36.193066187368615 -114.00066375732422,36.193793498970585 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_15</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.97954940795898,36.12369813534999 -113.9796781539917,36.12297017321882 -113.97813320159912,36.122658187381916 -113.97551536560059,36.12345548205631 -113.97345542907715,36.12480739799827 -113.97238254547119,36.12681789659697 -113.97135257720947,36.12799644080046 -113.97276878356934,36.12723385539524 -113.97641658782959,36.12369813534999 -113.97809028625488,36.123351487557976 -113.97954940795898,36.12369813534999 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_16</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98375511169434,36.127719137873974 -113.98465633392334,36.12896699332819 -113.98512840270996,36.130110843400146 -113.98645877838135,36.131254676801795 -113.9866304397583,36.13090806237991 -113.98564338684082,36.12993753385473 -113.98491382598877,36.1286896938306 -113.98444175720215,36.127545823047406 -113.98298263549805,36.126297944999365 -113.98268222808838,36.12702587627163 -113.98375511169434,36.127719137873974 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_17</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.94315719604492,36.13225984996858 -113.94294261932373,36.1316359508978 -113.93912315368652,36.1316359508978 -113.93732070922852,36.131913239986034 -113.93710613250732,36.13225984996858 -113.94315719604492,36.13225984996858 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='system:index'>
+      <value>1_2_18</value>
+    </Data>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9342737197876,36.13212120615926 -113.93435955047607,36.131774595564394 -113.93255710601807,36.13031881434948 -113.93165588378906,36.12896699332819 -113.93049716949463,36.126887223216414 -113.9296817779541,36.12532735946895 -113.92869472503662,36.124218104168 -113.92813682556152,36.1245647481333 -113.9287805557251,36.125985972387646 -113.92955303192139,36.12702587627163 -113.92993927001953,36.128447055966554 -113.9311408996582,36.129798885942854 -113.93277168273926,36.13111603121674 -113.9342737197876,36.13212120615926 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_0</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.1485071182251,36.061589108932516 -114.14953708648682,36.060270797801124 -114.15039539337158,36.05524019712758 -114.14983749389648,36.050313366180475 -114.14842128753662,36.04989700013739 -114.14597511291504,36.05097260791122 -114.14752006530762,36.05114609165954 -114.14790630340576,36.051701237084735 -114.14837837219238,36.052638036111354 -114.14932250976562,36.05270742818829 -114.14902210235596,36.0545462959354 -114.14846420288086,36.055517755891394 -114.14820671081543,36.05645450949239 -114.14872169494629,36.05673206397358 -114.14880752563477,36.05811982169599 -114.1482925415039,36.0596116339527 -114.14717674255371,36.060825878864335 -114.1485071182251,36.061589108932516 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_1</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14734840393066,36.0818813743049 -114.1494083404541,36.07841298197583 -114.15245532989502,36.07216949025243 -114.14953708648682,36.07060853987441 -114.14812088012695,36.07230823989795 -114.1473913192749,36.07352228885536 -114.14687633514404,36.07553410015409 -114.1476058959961,36.076990896898764 -114.14713382720947,36.07844766665644 -114.14576053619385,36.07858640522585 -114.14382934570312,36.08000846144895 -114.14734840393066,36.0818813743049 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_2</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.14348602294922,36.07874248582383 -114.14352893829346,36.07791005238788 -114.14305686950684,36.07738977701547 -114.14299249649048,36.078118161573 -114.14314270019531,36.078725143550486 -114.14348602294922,36.07874248582383 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_3</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.10670757293701,36.103035254163274 -114.10670757293701,36.10279253701716 -114.1051197052002,36.10289655874305 -114.10357475280762,36.10341666530641 -114.10250186920166,36.10431817519291 -114.10155773162842,36.10501163729678 -114.10147190093994,36.10324329683452 -114.10091400146484,36.10279253701716 -114.09954071044922,36.10268851515359 -114.09859657287598,36.10424882864584 -114.0996265411377,36.10556640257244 -114.10194396972656,36.10629452605129 -114.10469055175781,36.10372872759165 -114.10670757293701,36.103035254163274 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_4</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09868240356445,36.12026625477594 -114.10095691680908,36.11853292474285 -114.1028881072998,36.11856759171851 -114.10340309143066,36.11898359423254 -114.10451889038086,36.11808225266644 -114.10185813903809,36.11749290835586 -114.09790992736816,36.11738890595952 -114.09460544586182,36.11801291827124 -114.09486293792725,36.11856759171851 -114.09718036651611,36.11912226124743 -114.09782409667969,36.11946892771325 -114.09915447235107,36.11946892771325 -114.09868240356445,36.12026625477594 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_5</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09331798553467,36.133784915705526 -114.09482002258301,36.13111603121674 -114.09636497497559,36.129902871899716 -114.0946912765503,36.128516381147094 -114.09263134002686,36.128412393353315 -114.09117221832275,36.13004151962791 -114.09027099609375,36.13229451088266 -114.09048557281494,36.13406219720083 -114.09331798553467,36.133784915705526 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_6</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09670829772949,36.15554853258268 -114.09778118133545,36.15374667895221 -114.09645080566406,36.15215269699681 -114.09426212310791,36.151840827172414 -114.09486293792725,36.15305364730049 -114.0959358215332,36.15371202751509 -114.09554958343506,36.15443970447918 -114.09670829772949,36.15554853258268 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_7</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.09482002258301,36.15724639522902 -114.09297466278076,36.15468226196662 -114.09177303314209,36.155617833818525 -114.09168720245361,36.15679594545697 -114.09451961517334,36.15821658594866 -114.09482002258301,36.15724639522902 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_8</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08949851989746,36.15447435559474 -114.08889770507812,36.152741781059035 -114.08739566802979,36.15398923858334 -114.0858507156372,36.154994120490876 -114.08499240875244,36.155756436106515 -114.08499240875244,36.15669199514208 -114.08949851989746,36.15447435559474 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_9</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08833980560303,36.151494303690704 -114.08941268920898,36.15087055756512 -114.08881187438965,36.148999289423124 -114.0855073928833,36.14958839717209 -114.08374786376953,36.151424998810626 -114.08833980560303,36.151494303690704 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_10</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.08018589019775,36.15416249500337 -114.08194541931152,36.15236060952405 -114.08327579498291,36.15069729387206 -114.08421993255615,36.149345823928996 -114.08125877380371,36.14958839717209 -114.07816886901855,36.15204874052648 -114.07675266265869,36.15443970447918 -114.08018589019775,36.15416249500337 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_11</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.07327651977539,36.166913116576104 -114.07344818115234,36.16285947532957 -114.07233238220215,36.162443705400214 -114.07095909118652,36.16622020130296 -114.07327651977539,36.16715563547451 -114.07327651977539,36.166913116576104 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_12</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.0464973449707,36.18555023858625 -114.04877185821533,36.183852989036076 -114.0467119216919,36.18288311563844 -114.04370784759521,36.18284847708071 -114.04160499572754,36.18406081748753 -114.04422283172607,36.183887627149595 -114.04551029205322,36.184441834883 -114.0464973449707,36.18555023858625 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_13</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.03482437133789,36.19012223806529 -114.03581142425537,36.18821727071766 -114.03499603271484,36.18762845325385 -114.03388023376465,36.1881826345188 -114.03190612792969,36.191542274487574 -114.03482437133789,36.19012223806529 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_14</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.05087471008301,36.20137791737618 -114.05083179473877,36.19912691096162 -114.05134677886963,36.198365017206484 -114.0501880645752,36.197707012087385 -114.04924392700195,36.1999926903194 -114.04834270477295,36.20210515176853 -114.05014514923096,36.202901638827214 -114.05087471008301,36.20137791737618 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_15</value>
+    </Data>
+  </ExtendedData>
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-114.00160789489368,36.20110087392265 -114.01100628739032,36.20210316107116 -114.0108776092505,36.19833038549513 -114.00461196899263,36.196806575066326 -114.00160789489368,36.20110087392265 </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-114.01100635528498,36.202105151764776 -114.0113496780376,36.20213978180999 -114.01100628739032,36.20210316107116 -114.01100635528498,36.202105151764776 </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </MultiGeometry>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_16</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-114.01761531829834,36.23136207251273 -114.01950359344482,36.22776181116359 -114.01624202728271,36.22776181116359 -114.01302337646484,36.22665400509442 -114.01186466217041,36.23021969984534 -114.01731491088867,36.23118898681768 -114.01761531829834,36.23136207251273 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_17</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9992904663086,36.19102275195428 -114.0001916885376,36.18866753990889 -114.00139331817627,36.186866447611784 -113.99946212768555,36.186381531070445 -113.9972734451294,36.190364685130994 -113.9992904663086,36.19102275195428 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_18</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.98787498474121,36.13045746134286 -113.99002075195312,36.12914030501672 -113.98487091064453,36.12518870341353 -113.98487091064453,36.12678323326427 -113.9860725402832,36.128447055966554 -113.98633003234863,36.12955625150772 -113.98787498474121,36.13045746134286 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_19</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.9807939529419,36.12206887741835 -113.98130893707275,36.120508917927026 -113.97847652435303,36.12040491952555 -113.97478580474854,36.12040491952555 -113.97349834442139,36.12283151299992 -113.97448539733887,36.123282157815886 -113.9771032333374,36.12175688799974 -113.97954940795898,36.12137556591547 -113.98087978363037,36.12154889436516 -113.9807939529419,36.12206887741835 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark><Placemark>
+  <ExtendedData>
+    <Data name='year'>
+      <value>'2016'</value>
+    </Data>
+    <Data name='water'>
+      <value>0</value>
+    </Data>
+    <Data name='system:index'>
+      <value>2_20</value>
+    </Data>
+  </ExtendedData>
+  <Polygon>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>-113.94298553466797,36.13118535403988 -113.94131183624268,36.13049212305297 -113.93551826477051,36.13004151962791 -113.93423080444336,36.127303181647314 -113.93118381500244,36.12397545248152 -113.93066883087158,36.1245647481333 -113.93126964569092,36.12712986590231 -113.93217086791992,36.128551043714424 -113.93320083618164,36.13004151962791 -113.93500328063965,36.13111603121674 -113.94298553466797,36.13118535403988 </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+</Document>
+</kml>
